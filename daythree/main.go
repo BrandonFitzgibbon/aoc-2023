@@ -12,12 +12,13 @@ const (
 )
 
 type Container struct {
-	number int
-	nlen   int
-	data   []byte
-	part   bool
-	line   int
-	col    int
+	number    int
+	nlen      int
+	data      []byte
+	part      bool
+	gearindex int
+	line      int
+	col       int
 }
 
 func (container Container) String() string {
@@ -28,7 +29,7 @@ func (container Container) String() string {
 	} else {
 		span += 2
 	}
-	sb.WriteString(fmt.Sprintf("\nNumber %d\nLength %d\nLine %d\nCol %d\nPart %t\nData:\n", container.number, container.nlen, container.line, container.col, container.part))
+	sb.WriteString(fmt.Sprintf("\nNumber %d\nLength %d\nLine %d\nCol %d\nPart %t\nGear Index %d\nData:\n", container.number, container.nlen, container.line, container.col, container.part, container.gearindex))
 	for i, v := range container.data {
 		sb.WriteByte(v)
 		if (i+1)%span == 0 {
@@ -46,8 +47,9 @@ func parseDigit(data []byte) int {
 	return val
 }
 
-func getDataSlice(data []byte, row int, col int, len int) ([]byte, bool) {
+func getDataSlice(data []byte, row int, col int, len int) ([]byte, bool, int) {
 	part := false
+	gearindex := -1
 	slice := make([]byte, 0)
 	for i := -1; i < 2; i++ {
 		if row+i < 1 {
@@ -68,10 +70,13 @@ func getDataSlice(data []byte, row int, col int, len int) ([]byte, bool) {
 			if ele != '.' && !(ele >= '0' && ele <= '9') {
 				part = true
 			}
+			if ele == '*' {
+				gearindex = ind
+			}
 			slice = append(slice, ele)
 		}
 	}
-	return slice, part
+	return slice, part, gearindex
 }
 
 func main() {
@@ -94,19 +99,37 @@ func main() {
 				row := int(math.Ceil(float64(digitStart+1) / WIDTH))
 				col := (WIDTH) - ((row * WIDTH) - digitStart) + 1
 				container := Container{number: number, nlen: len, line: row, col: col}
-				container.data, container.part = getDataSlice(data, row, col, len)
+				container.data, container.part, container.gearindex = getDataSlice(data, row, col, len)
 				containers = append(containers, container)
 				digitStart = -1
 			}
 		}
 	}
 	sum := 0
+	gearratio := 0
+	gearmap := make(map[int][]int)
 	for _, v := range containers {
 		sb.WriteString(fmt.Sprint(v))
 		if v.part {
 			sum += v.number
 		}
+		if v.gearindex > -1 {
+			sl, ok := gearmap[v.gearindex]
+			if ok {
+				sl = append(sl, v.number)
+				gearmap[v.gearindex] = sl
+			} else {
+				sl := []int{v.number}
+				gearmap[v.gearindex] = sl
+			}
+		}
+	}
+	for _, v := range gearmap {
+		if len(v) == 2 {
+			gearratio += (v[0] * v[1])
+		}
 	}
 	fmt.Println(sum)
+	fmt.Println(gearratio)
 	os.WriteFile("./output.txt", []byte(sb.String()), 0777)
 }

@@ -1,0 +1,13551 @@
+
+Number 573
+Length 3
+Line 1
+Col 5
+Part true
+Gear Index 148
+Data:
+.573.
+....*
+
+Number 613
+Length 3
+Line 1
+Col 9
+Part true
+Gear Index 148
+Data:
+.613.
+*....
+
+Number 965
+Length 3
+Line 1
+Col 21
+Part true
+Gear Index 162
+Data:
+.965.
+..*..
+
+Number 691
+Length 3
+Line 1
+Col 36
+Part false
+Gear Index -1
+Data:
+.691.
+.....
+
+Number 892
+Length 3
+Line 1
+Col 45
+Part true
+Gear Index -1
+Data:
+.892.
+..$..
+
+Number 948
+Length 3
+Line 1
+Col 50
+Part true
+Gear Index 191
+Data:
+.948.
+..*..
+
+Number 964
+Length 3
+Line 1
+Col 60
+Part true
+Gear Index -1
+Data:
+.964.
+.../.
+
+Number 439
+Length 3
+Line 1
+Col 71
+Part true
+Gear Index 213
+Data:
+.439.
+...*.
+
+Number 375
+Length 3
+Line 1
+Col 75
+Part true
+Gear Index -1
+Data:
+.375.
+....=
+
+Number 320
+Length 3
+Line 1
+Col 96
+Part false
+Gear Index -1
+Data:
+.320.
+.....
+
+Number 273
+Length 3
+Line 1
+Col 105
+Part true
+Gear Index -1
+Data:
+.273.
+.../.
+
+Number 352
+Length 3
+Line 1
+Col 119
+Part false
+Gear Index -1
+Data:
+.352.
+.....
+
+Number 284
+Length 3
+Line 1
+Col 123
+Part true
+Gear Index -1
+Data:
+.284.
+...+.
+
+Number 814
+Length 3
+Line 2
+Col 28
+Part true
+Gear Index 308
+Data:
+.....
+.814.
+*....
+
+Number 94
+Length 2
+Line 2
+Col 65
+Part false
+Gear Index -1
+Data:
+....
+.94.
+....
+
+Number 103
+Length 3
+Line 2
+Col 92
+Part true
+Gear Index -1
+Data:
+.....
+.103.
+..@..
+
+Number 882
+Length 3
+Line 2
+Col 110
+Part true
+Gear Index 253
+Data:
+.....
+.882*
+.....
+
+Number 328
+Length 3
+Line 3
+Col 12
+Part true
+Gear Index 436
+Data:
+.....
+.328.
+...*.
+
+Number 598
+Length 3
+Line 3
+Col 19
+Part true
+Gear Index 162
+Data:
+....*
+.598.
+.....
+
+Number 819
+Length 3
+Line 3
+Col 52
+Part true
+Gear Index 191
+Data:
+*....
+.819.
+.....
+
+Number 199
+Length 3
+Line 3
+Col 74
+Part true
+Gear Index 213
+Data:
+*....
+.199.
+.....
+
+Number 60
+Length 2
+Line 3
+Col 85
+Part true
+Gear Index 368
+Data:
+....
+.60*
+....
+
+Number 132
+Length 3
+Line 3
+Col 88
+Part true
+Gear Index 368
+Data:
+.....
+*132.
+.....
+
+Number 685
+Length 3
+Line 3
+Col 114
+Part true
+Gear Index 253
+Data:
+*....
+.685.
+.....
+
+Number 6
+Length 1
+Line 3
+Col 127
+Part true
+Gear Index 548
+Data:
+...
+.6.
+*..
+
+Number 493
+Length 3
+Line 3
+Col 137
+Part false
+Gear Index -1
+Data:
+.....
+.493.
+.....
+
+Number 777
+Length 3
+Line 4
+Col 1
+Part true
+Gear Index -1
+Data:
+....
+777.
+...=
+
+Number 763
+Length 3
+Line 4
+Col 8
+Part true
+Gear Index -1
+Data:
+.....
+.763.
+.-...
+
+Number 510
+Length 3
+Line 4
+Col 24
+Part true
+Gear Index 308
+Data:
+....*
+.510.
+.....
+
+Number 614
+Length 3
+Line 4
+Col 30
+Part true
+Gear Index -1
+Data:
+.....
+.614.
+../..
+
+Number 439
+Length 3
+Line 4
+Col 67
+Part true
+Gear Index -1
+Data:
+.....
+.439.
+...=.
+
+Number 216
+Length 3
+Line 4
+Col 100
+Part true
+Gear Index 665
+Data:
+.....
+.216.
+...*.
+
+Number 925
+Length 3
+Line 4
+Col 109
+Part true
+Gear Index 674
+Data:
+.....
+.925.
+...*.
+
+Number 748
+Length 3
+Line 4
+Col 119
+Part true
+Gear Index 681
+Data:
+.....
+.748.
+*....
+
+Number 540
+Length 3
+Line 4
+Col 131
+Part true
+Gear Index 696
+Data:
+.....
+.540.
+...*.
+
+Number 710
+Length 3
+Line 5
+Col 13
+Part true
+Gear Index 436
+Data:
+..*..
+.710.
+.....
+
+Number 273
+Length 3
+Line 5
+Col 35
+Part true
+Gear Index -1
+Data:
+.....
+.273.
+..%..
+
+Number 933
+Length 3
+Line 5
+Col 43
+Part true
+Gear Index 749
+Data:
+.....
+.933.
+...*.
+
+Number 753
+Length 3
+Line 5
+Col 63
+Part false
+Gear Index -1
+Data:
+.....
+.753.
+.....
+
+Number 33
+Length 2
+Line 5
+Col 76
+Part false
+Gear Index -1
+Data:
+....
+.33.
+....
+
+Number 213
+Length 3
+Line 5
+Col 93
+Part true
+Gear Index -1
+Data:
+.....
+.213$
+.....
+
+Number 408
+Length 3
+Line 5
+Col 105
+Part true
+Gear Index -1
+Data:
+.....
+.408.
+@....
+
+Number 514
+Length 3
+Line 5
+Col 126
+Part true
+Gear Index 548
+Data:
+.*...
+.514.
+.....
+
+Number 130
+Length 3
+Line 5
+Col 137
+Part false
+Gear Index -1
+Data:
+.....
+.130.
+.....
+
+Number 283
+Length 3
+Line 6
+Col 18
+Part false
+Gear Index -1
+Data:
+.....
+.283.
+.....
+
+Number 541
+Length 3
+Line 6
+Col 57
+Part true
+Gear Index -1
+Data:
+...%.
+.541.
+.....
+
+Number 129
+Length 3
+Line 6
+Col 85
+Part true
+Gear Index -1
+Data:
+@....
+.129.
+.....
+
+Number 873
+Length 3
+Line 6
+Col 99
+Part true
+Gear Index 665
+Data:
+....*
+.873.
+.....
+
+Number 884
+Length 3
+Line 6
+Col 109
+Part true
+Gear Index 674
+Data:
+...*.
+.884.
+.....
+
+Number 897
+Length 3
+Line 6
+Col 115
+Part true
+Gear Index 681
+Data:
+....*
+.897.
+.....
+
+Number 984
+Length 3
+Line 7
+Col 41
+Part true
+Gear Index -1
+Data:
+.....
+.984.
+....%
+
+Number 225
+Length 3
+Line 7
+Col 46
+Part true
+Gear Index 749
+Data:
+*....
+.225.
+.....
+
+Number 167
+Length 3
+Line 7
+Col 50
+Part true
+Gear Index 1038
+Data:
+.....
+.167.
+...*.
+
+Number 303
+Length 3
+Line 7
+Col 63
+Part true
+Gear Index 1049
+Data:
+.....
+.303.
+.*...
+
+Number 144
+Length 3
+Line 7
+Col 71
+Part true
+Gear Index -1
+Data:
+....&
+.144.
+.....
+
+Number 391
+Length 3
+Line 7
+Col 76
+Part true
+Gear Index 1061
+Data:
+.....
+.391.
+*....
+
+Number 292
+Length 3
+Line 7
+Col 90
+Part false
+Gear Index -1
+Data:
+.....
+.292.
+.....
+
+Number 909
+Length 3
+Line 7
+Col 125
+Part false
+Gear Index -1
+Data:
+.....
+.909.
+.....
+
+Number 915
+Length 3
+Line 8
+Col 6
+Part true
+Gear Index -1
+Data:
+..#..
+.915.
+.....
+
+Number 580
+Length 3
+Line 8
+Col 12
+Part true
+Gear Index -1
+Data:
+.=...
+.580.
+.....
+
+Number 688
+Length 3
+Line 8
+Col 36
+Part true
+Gear Index -1
+Data:
+.....
+.688.
+..=..
+
+Number 47
+Length 2
+Line 8
+Col 82
+Part true
+Gear Index -1
+Data:
+..%.
+.47.
+....
+
+Number 586
+Length 3
+Line 8
+Col 118
+Part false
+Gear Index -1
+Data:
+.....
+.586.
+.....
+
+Number 78
+Length 2
+Line 8
+Col 132
+Part true
+Gear Index 1261
+Data:
+....
+.78.
+...*
+
+Number 467
+Length 3
+Line 9
+Col 23
+Part true
+Gear Index 1293
+Data:
+.....
+.467.
+...*.
+
+Number 514
+Length 3
+Line 9
+Col 27
+Part false
+Gear Index -1
+Data:
+.....
+.514.
+.....
+
+Number 267
+Length 3
+Line 9
+Col 31
+Part true
+Gear Index -1
+Data:
+..+..
+.267.
+.....
+
+Number 317
+Length 3
+Line 9
+Col 54
+Part true
+Gear Index 1040
+Data:
+.*...
+.317.
+.....
+
+Number 942
+Length 3
+Line 9
+Col 63
+Part true
+Gear Index 1049
+Data:
+.*...
+.942.
+.....
+
+Number 170
+Length 3
+Line 9
+Col 74
+Part true
+Gear Index 1061
+Data:
+..*..
+.170.
+.....
+
+Number 658
+Length 3
+Line 9
+Col 87
+Part true
+Gear Index -1
+Data:
+..-..
+.658.
+.....
+
+Number 669
+Length 3
+Line 9
+Col 92
+Part true
+Gear Index -1
+Data:
+.....
+.669.
+..../
+
+Number 942
+Length 3
+Line 9
+Col 100
+Part false
+Gear Index -1
+Data:
+.....
+.942.
+.....
+
+Number 347
+Length 3
+Line 9
+Col 106
+Part true
+Gear Index 1377
+Data:
+.....
+.347.
+....*
+
+Number 201
+Length 3
+Line 9
+Col 111
+Part false
+Gear Index -1
+Data:
+.....
+.201.
+.....
+
+Number 658
+Length 3
+Line 9
+Col 123
+Part true
+Gear Index -1
+Data:
+.....
+=658.
+.....
+
+Number 401
+Length 3
+Line 9
+Col 135
+Part true
+Gear Index 1261
+Data:
+.....
+*401.
+.....
+
+Number 626
+Length 3
+Line 10
+Col 5
+Part true
+Gear Index 1416
+Data:
+.....
+.626.
+...*.
+
+Number 549
+Length 3
+Line 10
+Col 17
+Part true
+Gear Index -1
+Data:
+.....
+.549.
+.#...
+
+Number 845
+Length 3
+Line 10
+Col 44
+Part true
+Gear Index 1452
+Data:
+.....
+.845.
+*....
+
+Number 925
+Length 3
+Line 10
+Col 69
+Part true
+Gear Index -1
+Data:
+.....
+.925.
+....+
+
+Number 932
+Length 3
+Line 10
+Col 79
+Part false
+Gear Index -1
+Data:
+.....
+.932.
+.....
+
+Number 247
+Length 3
+Line 10
+Col 115
+Part true
+Gear Index 1524
+Data:
+.....
+.247.
+.*...
+
+Number 620
+Length 3
+Line 11
+Col 11
+Part true
+Gear Index -1
+Data:
+.....
+.620%
+.....
+
+Number 797
+Length 3
+Line 11
+Col 25
+Part true
+Gear Index 1293
+Data:
+.*...
+.797.
+.....
+
+Number 615
+Length 3
+Line 11
+Col 35
+Part true
+Gear Index -1
+Data:
+.....
+.615.
+.../.
+
+Number 568
+Length 3
+Line 11
+Col 62
+Part true
+Gear Index -1
+Data:
+%....
+.568.
+.....
+
+Number 612
+Length 3
+Line 11
+Col 97
+Part true
+Gear Index -1
+Data:
+.%...
+.612.
+.....
+
+Number 959
+Length 3
+Line 11
+Col 109
+Part true
+Gear Index 1377
+Data:
+.*...
+.959.
+.....
+
+Number 407
+Length 3
+Line 11
+Col 119
+Part true
+Gear Index -1
+Data:
+.....
+.407.
+=....
+
+Number 631
+Length 3
+Line 11
+Col 130
+Part true
+Gear Index -1
+Data:
+#....
+.631.
+.....
+
+Number 499
+Length 3
+Line 12
+Col 4
+Part true
+Gear Index 1416
+Data:
+....*
+.499.
+.....
+
+Number 153
+Length 3
+Line 12
+Col 30
+Part true
+Gear Index -1
+Data:
+....+
+.153.
+.....
+
+Number 51
+Length 2
+Line 12
+Col 42
+Part true
+Gear Index 1452
+Data:
+..*.
+.51.
+....
+
+Number 569
+Length 3
+Line 12
+Col 57
+Part true
+Gear Index -1
+Data:
+.....
+.569-
+.....
+
+Number 463
+Length 3
+Line 12
+Col 77
+Part true
+Gear Index -1
+Data:
+-....
+.463.
+.....
+
+Number 102
+Length 3
+Line 12
+Col 81
+Part true
+Gear Index -1
+Data:
+.....
+.102.
+..%..
+
+Number 477
+Length 3
+Line 12
+Col 86
+Part true
+Gear Index 1778
+Data:
+.....
+.477.
+..*..
+
+Number 685
+Length 3
+Line 12
+Col 91
+Part true
+Gear Index -1
+Data:
+.....
+.685.
+=....
+
+Number 715
+Length 3
+Line 12
+Col 105
+Part false
+Gear Index -1
+Data:
+.....
+.715.
+.....
+
+Number 794
+Length 3
+Line 12
+Col 113
+Part true
+Gear Index 1524
+Data:
+...*.
+.794.
+.....
+
+Number 353
+Length 3
+Line 12
+Col 124
+Part true
+Gear Index -1
+Data:
+.....
+.353.
+=....
+
+Number 17
+Length 2
+Line 13
+Col 15
+Part true
+Gear Index 1846
+Data:
+....
+.17.
+*...
+
+Number 351
+Length 3
+Line 13
+Col 52
+Part true
+Gear Index -1
+Data:
+....&
+.351.
+.....
+
+Number 811
+Length 3
+Line 13
+Col 96
+Part true
+Gear Index -1
+Data:
+.....
+.811.
+../..
+
+Number 87
+Length 2
+Line 13
+Col 120
+Part false
+Gear Index -1
+Data:
+....
+.87.
+....
+
+Number 7
+Length 1
+Line 13
+Col 128
+Part true
+Gear Index 1959
+Data:
+...
+.7.
+*..
+
+Number 656
+Length 3
+Line 13
+Col 133
+Part false
+Gear Index -1
+Data:
+.....
+.656.
+.....
+
+Number 887
+Length 3
+Line 14
+Col 3
+Part false
+Gear Index -1
+Data:
+.....
+.887.
+.....
+
+Number 804
+Length 3
+Line 14
+Col 27
+Part true
+Gear Index -1
+Data:
+.&...
+.804.
+.....
+
+Number 801
+Length 3
+Line 14
+Col 46
+Part true
+Gear Index 2022
+Data:
+.....
+.801.
+....*
+
+Number 727
+Length 3
+Line 14
+Col 65
+Part true
+Gear Index -1
+Data:
+..&..
+.727.
+.....
+
+Number 52
+Length 2
+Line 14
+Col 70
+Part true
+Gear Index -1
+Data:
+....
+.52.
+.%..
+
+Number 599
+Length 3
+Line 14
+Col 85
+Part true
+Gear Index 1778
+Data:
+...*.
+.599.
+.....
+
+Number 771
+Length 3
+Line 14
+Col 92
+Part true
+Gear Index 2066
+Data:
+.....
+.771.
+..*..
+
+Number 567
+Length 3
+Line 14
+Col 104
+Part true
+Gear Index 1935
+Data:
+.....
+*567.
+.....
+
+Number 423
+Length 3
+Line 15
+Col 15
+Part true
+Gear Index 1846
+Data:
+*....
+.423.
+.....
+
+Number 114
+Length 3
+Line 15
+Col 19
+Part true
+Gear Index -1
+Data:
+.....
+.114.
+..&..
+
+Number 177
+Length 3
+Line 15
+Col 37
+Part false
+Gear Index -1
+Data:
+.....
+.177.
+.....
+
+Number 934
+Length 3
+Line 15
+Col 42
+Part true
+Gear Index 2157
+Data:
+.....
+.934.
+..*..
+
+Number 854
+Length 3
+Line 15
+Col 50
+Part true
+Gear Index 2022
+Data:
+.....
+*854.
+.....
+
+Number 927
+Length 3
+Line 15
+Col 55
+Part true
+Gear Index 2168
+Data:
+.....
+.927.
+*....
+
+Number 607
+Length 3
+Line 15
+Col 76
+Part true
+Gear Index 2052
+Data:
+.....
+.607*
+.....
+
+Number 940
+Length 3
+Line 15
+Col 100
+Part true
+Gear Index 1935
+Data:
+....*
+.940.
+.....
+
+Number 342
+Length 3
+Line 15
+Col 125
+Part true
+Gear Index 1959
+Data:
+...*.
+.342.
+.....
+
+Number 610
+Length 3
+Line 15
+Col 134
+Part false
+Gear Index -1
+Data:
+.....
+.610.
+.....
+
+Number 592
+Length 3
+Line 16
+Col 8
+Part true
+Gear Index 2265
+Data:
+.....
+.592.
+...*.
+
+Number 298
+Length 3
+Line 16
+Col 30
+Part true
+Gear Index -1
+Data:
+...+.
+.298.
+.....
+
+Number 613
+Length 3
+Line 16
+Col 72
+Part true
+Gear Index 2329
+Data:
+.....
+.613.
+...*.
+
+Number 422
+Length 3
+Line 16
+Col 80
+Part true
+Gear Index 2052
+Data:
+*....
+.422.
+.....
+
+Number 897
+Length 3
+Line 16
+Col 90
+Part true
+Gear Index 2066
+Data:
+....*
+.897.
+.....
+
+Number 116
+Length 3
+Line 16
+Col 111
+Part true
+Gear Index 2367
+Data:
+.....
+.116.
+..*..
+
+Number 993
+Length 3
+Line 16
+Col 117
+Part true
+Gear Index -1
+Data:
+.....
+.993.
+..&..
+
+Number 328
+Length 3
+Line 16
+Col 130
+Part true
+Gear Index -1
+Data:
+.....
+.328.
+...-.
+
+Number 930
+Length 3
+Line 17
+Col 36
+Part true
+Gear Index -1
+Data:
+.....
+&930.
+.....
+
+Number 630
+Length 3
+Line 17
+Col 41
+Part true
+Gear Index 2157
+Data:
+...*.
+.630.
+.....
+
+Number 205
+Length 3
+Line 17
+Col 47
+Part true
+Gear Index 2444
+Data:
+.....
+.205.
+..*..
+
+Number 371
+Length 3
+Line 17
+Col 54
+Part true
+Gear Index 2168
+Data:
+.*...
+.371.
+.....
+
+Number 631
+Length 3
+Line 17
+Col 64
+Part true
+Gear Index 2177
+Data:
+*....
+.631.
+.....
+
+Number 526
+Length 3
+Line 18
+Col 11
+Part true
+Gear Index 2265
+Data:
+*....
+.526.
+.....
+
+Number 126
+Length 3
+Line 18
+Col 80
+Part true
+Gear Index -1
+Data:
+.....
+.126.
+.%...
+
+Number 112
+Length 3
+Line 18
+Col 97
+Part true
+Gear Index 2633
+Data:
+.....
+.112.
+*....
+
+Number 151
+Length 3
+Line 18
+Col 103
+Part true
+Gear Index 2639
+Data:
+.....
+.151.
+*....
+
+Number 988
+Length 3
+Line 18
+Col 108
+Part true
+Gear Index -1
+Data:
+.....
+.988.
+...+.
+
+Number 960
+Length 3
+Line 18
+Col 113
+Part true
+Gear Index 2367
+Data:
+*....
+.960.
+.....
+
+Number 271
+Length 3
+Line 18
+Col 136
+Part true
+Gear Index -1
+Data:
+%....
+.271.
+.....
+
+Number 830
+Length 3
+Line 19
+Col 15
+Part true
+Gear Index -1
+Data:
+.....
+.830.
+#....
+
+Number 976
+Length 3
+Line 19
+Col 32
+Part true
+Gear Index 2711
+Data:
+.....
+.976.
+..*..
+
+Number 560
+Length 3
+Line 19
+Col 46
+Part true
+Gear Index 2444
+Data:
+...*.
+.560.
+.....
+
+Number 843
+Length 3
+Line 19
+Col 57
+Part true
+Gear Index -1
+Data:
+.....
+.843.
+..-..
+
+Number 8
+Length 1
+Line 19
+Col 65
+Part true
+Gear Index 2742
+Data:
+...
+.8.
+*..
+
+Number 985
+Length 3
+Line 19
+Col 76
+Part true
+Gear Index -1
+Data:
+.&...
+.985.
+.....
+
+Number 390
+Length 3
+Line 19
+Col 93
+Part true
+Gear Index 2633
+Data:
+.....
+.390*
+.....
+
+Number 308
+Length 3
+Line 19
+Col 117
+Part false
+Gear Index -1
+Data:
+.....
+.308.
+.....
+
+Number 725
+Length 3
+Line 19
+Col 125
+Part true
+Gear Index 2802
+Data:
+.....
+.725.
+*....
+
+Number 422
+Length 3
+Line 20
+Col 4
+Part true
+Gear Index -1
+Data:
+.....
+.422.
+....+
+
+Number 205
+Length 3
+Line 20
+Col 9
+Part true
+Gear Index 2830
+Data:
+.....
+.205.
+...*.
+
+Number 97
+Length 2
+Line 20
+Col 19
+Part true
+Gear Index 2838
+Data:
+....
+.97.
+.*..
+
+Number 228
+Length 3
+Line 20
+Col 27
+Part true
+Gear Index 2848
+Data:
+.....
+.228.
+...*.
+
+Number 719
+Length 3
+Line 20
+Col 41
+Part true
+Gear Index -1
+Data:
+.....
+.719.
+...&.
+
+Number 695
+Length 3
+Line 20
+Col 52
+Part true
+Gear Index -1
+Data:
+&....
+.695.
+.....
+
+Number 574
+Length 3
+Line 20
+Col 61
+Part true
+Gear Index 2742
+Data:
+.....
+.574*
+.....
+
+Number 131
+Length 3
+Line 20
+Col 69
+Part true
+Gear Index -1
+Data:
+...+.
+.131.
+.....
+
+Number 522
+Length 3
+Line 20
+Col 83
+Part true
+Gear Index 2902
+Data:
+.....
+.522.
+.*...
+
+Number 195
+Length 3
+Line 20
+Col 121
+Part true
+Gear Index 2802
+Data:
+.....
+.195*
+.....
+
+Number 608
+Length 3
+Line 20
+Col 129
+Part true
+Gear Index 2667
+Data:
+..*..
+.608.
+.....
+
+Number 923
+Length 3
+Line 20
+Col 137
+Part false
+Gear Index -1
+Data:
+.....
+.923.
+.....
+
+Number 610
+Length 3
+Line 21
+Col 31
+Part true
+Gear Index 2711
+Data:
+...*.
+.610.
+.....
+
+Number 349
+Length 3
+Line 21
+Col 88
+Part true
+Gear Index 3049
+Data:
+.....
+.349.
+..*..
+
+Number 854
+Length 3
+Line 21
+Col 99
+Part true
+Gear Index -1
+Data:
+..%..
+.854.
+.....
+
+Number 506
+Length 3
+Line 21
+Col 104
+Part true
+Gear Index -1
+Data:
+.....
+.506.
++....
+
+Number 793
+Length 3
+Line 21
+Col 108
+Part true
+Gear Index -1
+Data:
+.....
+.793.
+.&...
+
+Number 782
+Length 3
+Line 22
+Col 3
+Part true
+Gear Index 3107
+Data:
+.....
+.782.
+....*
+
+Number 176
+Length 3
+Line 22
+Col 9
+Part true
+Gear Index 2830
+Data:
+...*.
+.176.
+.....
+
+Number 711
+Length 3
+Line 22
+Col 16
+Part true
+Gear Index 2838
+Data:
+....*
+.711.
+.....
+
+Number 823
+Length 3
+Line 22
+Col 21
+Part true
+Gear Index 3125
+Data:
+.....
+.823.
+....*
+
+Number 804
+Length 3
+Line 22
+Col 26
+Part true
+Gear Index 2848
+Data:
+....*
+.804.
+.....
+
+Number 426
+Length 3
+Line 22
+Col 38
+Part true
+Gear Index 3142
+Data:
+.....
+.426.
+....*
+
+Number 441
+Length 3
+Line 22
+Col 80
+Part true
+Gear Index 2902
+Data:
+....*
+.441.
+.....
+
+Number 354
+Length 3
+Line 22
+Col 130
+Part true
+Gear Index 3093
+Data:
+.....
+.354*
+.....
+
+Number 280
+Length 3
+Line 23
+Col 48
+Part true
+Gear Index 3289
+Data:
+.....
+.280.
+*....
+
+Number 461
+Length 3
+Line 23
+Col 67
+Part true
+Gear Index 3171
+Data:
+.....
+.461*
+.....
+
+Number 961
+Length 3
+Line 23
+Col 94
+Part false
+Gear Index -1
+Data:
+.....
+.961.
+.....
+
+Number 351
+Length 3
+Line 23
+Col 112
+Part true
+Gear Index 3216
+Data:
+.....
+.351*
+.....
+
+Number 136
+Length 3
+Line 23
+Col 116
+Part true
+Gear Index 3216
+Data:
+.....
+*136.
+.....
+
+Number 521
+Length 3
+Line 23
+Col 121
+Part true
+Gear Index 3225
+Data:
+.....
+.521*
+.....
+
+Number 584
+Length 3
+Line 23
+Col 125
+Part true
+Gear Index 3225
+Data:
+.....
+*584.
+.....
+
+Number 575
+Length 3
+Line 23
+Col 134
+Part true
+Gear Index 3093
+Data:
+*....
+.575.
+.....
+
+Number 688
+Length 3
+Line 24
+Col 6
+Part true
+Gear Index 3107
+Data:
+.*...
+.688.
+.....
+
+Number 965
+Length 3
+Line 24
+Col 10
+Part true
+Gear Index 3395
+Data:
+.....
+.965.
+...*.
+
+Number 661
+Length 3
+Line 24
+Col 23
+Part true
+Gear Index 3125
+Data:
+..*..
+.661.
+.....
+
+Number 60
+Length 2
+Line 24
+Col 40
+Part true
+Gear Index 3142
+Data:
+..*.
+.60.
+....
+
+Number 314
+Length 3
+Line 24
+Col 44
+Part true
+Gear Index 3289
+Data:
+.....
+.314*
+.....
+
+Number 758
+Length 3
+Line 24
+Col 56
+Part true
+Gear Index 3442
+Data:
+.....
+.758.
+....*
+
+Number 11
+Length 2
+Line 24
+Col 60
+Part true
+Gear Index 3442
+Data:
+....
+.11.
+*...
+
+Number 394
+Length 3
+Line 24
+Col 63
+Part true
+Gear Index -1
+Data:
+...&.
+.394.
+.....
+
+Number 507
+Length 3
+Line 24
+Col 71
+Part true
+Gear Index 3171
+Data:
+*....
+.507.
+.....
+
+Number 942
+Length 3
+Line 24
+Col 77
+Part true
+Gear Index -1
+Data:
+.....
+#942.
+.....
+
+Number 336
+Length 3
+Line 24
+Col 81
+Part true
+Gear Index 3185
+Data:
+....*
+.336.
+.....
+
+Number 263
+Length 3
+Line 24
+Col 85
+Part true
+Gear Index 3185
+Data:
+*....
+.263.
+.....
+
+Number 545
+Length 3
+Line 24
+Col 90
+Part false
+Gear Index -1
+Data:
+.....
+.545.
+.....
+
+Number 485
+Length 3
+Line 24
+Col 100
+Part true
+Gear Index -1
+Data:
+&....
+.485.
+.....
+
+Number 151
+Length 3
+Line 25
+Col 15
+Part false
+Gear Index -1
+Data:
+.....
+.151.
+.....
+
+Number 4
+Length 1
+Line 25
+Col 19
+Part true
+Gear Index -1
+Data:
+./.
+.4.
+...
+
+Number 739
+Length 3
+Line 25
+Col 36
+Part true
+Gear Index -1
+Data:
+./...
+.739.
+.....
+
+Number 954
+Length 3
+Line 25
+Col 51
+Part true
+Gear Index 3577
+Data:
+.....
+.954.
+...*.
+
+Number 285
+Length 3
+Line 25
+Col 94
+Part true
+Gear Index -1
+Data:
+.....
+.285.
+.=...
+
+Number 618
+Length 3
+Line 25
+Col 118
+Part true
+Gear Index 3645
+Data:
+.....
+.618.
+....*
+
+Number 4
+Length 1
+Line 25
+Col 122
+Part true
+Gear Index 3645
+Data:
+...
+.4.
+*..
+
+Number 47
+Length 2
+Line 26
+Col 6
+Part true
+Gear Index 3673
+Data:
+....
+.47.
+...*
+
+Number 266
+Length 3
+Line 26
+Col 10
+Part true
+Gear Index 3395
+Data:
+...*.
+.266.
+.....
+
+Number 169
+Length 3
+Line 26
+Col 27
+Part true
+Gear Index -1
+Data:
+.....
+.169.
+.-...
+
+Number 109
+Length 3
+Line 26
+Col 47
+Part false
+Gear Index -1
+Data:
+.....
+.109.
+.....
+
+Number 992
+Length 3
+Line 26
+Col 65
+Part true
+Gear Index 3592
+Data:
+.....
+.992*
+.....
+
+Number 616
+Length 3
+Line 26
+Col 69
+Part true
+Gear Index 3592
+Data:
+.....
+*616.
+.....
+
+Number 818
+Length 3
+Line 26
+Col 89
+Part true
+Gear Index 3756
+Data:
+.....
+.818.
+...*.
+
+Number 659
+Length 3
+Line 26
+Col 101
+Part true
+Gear Index 3768
+Data:
+.....
+.659.
+...*.
+
+Number 270
+Length 3
+Line 26
+Col 131
+Part true
+Gear Index 3517
+Data:
+....*
+.270.
+.....
+
+Number 427
+Length 3
+Line 26
+Col 135
+Part true
+Gear Index 3517
+Data:
+*....
+.427.
+.....
+
+Number 151
+Length 3
+Line 27
+Col 15
+Part true
+Gear Index -1
+Data:
+.....
+@151.
+.....
+
+Number 872
+Length 3
+Line 27
+Col 20
+Part true
+Gear Index 3684
+Data:
+.....
+*872.
+.....
+
+Number 8
+Length 1
+Line 27
+Col 35
+Part true
+Gear Index -1
+Data:
+...
+.8.
+.+.
+
+Number 754
+Length 3
+Line 27
+Col 40
+Part true
+Gear Index -1
+Data:
+.....
+.754.
+....&
+
+Number 846
+Length 3
+Line 27
+Col 53
+Part true
+Gear Index 3577
+Data:
+.*...
+.846.
+.....
+
+Number 764
+Length 3
+Line 27
+Col 77
+Part true
+Gear Index 3886
+Data:
+.....
+.764.
+....*
+
+Number 514
+Length 3
+Line 27
+Col 81
+Part true
+Gear Index 3886
+Data:
+.....
+.514.
+*....
+
+Number 416
+Length 3
+Line 27
+Col 85
+Part false
+Gear Index -1
+Data:
+.....
+.416.
+.....
+
+Number 526
+Length 3
+Line 27
+Col 96
+Part false
+Gear Index -1
+Data:
+.....
+.526.
+.....
+
+Number 295
+Length 3
+Line 27
+Col 107
+Part true
+Gear Index 3916
+Data:
+.....
+.295.
+....*
+
+Number 155
+Length 3
+Line 27
+Col 115
+Part true
+Gear Index -1
+Data:
+%....
+.155.
+.....
+
+Number 524
+Length 3
+Line 28
+Col 9
+Part true
+Gear Index 3673
+Data:
+*....
+.524.
+.....
+
+Number 20
+Length 2
+Line 28
+Col 89
+Part true
+Gear Index 3756
+Data:
+...*
+.20.
+....
+
+Number 416
+Length 3
+Line 28
+Col 103
+Part true
+Gear Index 3768
+Data:
+.*...
+.416.
+.....
+
+Number 947
+Length 3
+Line 28
+Col 126
+Part true
+Gear Index 3794
+Data:
+....*
+.947.
+.....
+
+Number 640
+Length 3
+Line 28
+Col 130
+Part true
+Gear Index 3794
+Data:
+*....
+.640.
+.....
+
+Number 672
+Length 3
+Line 29
+Col 26
+Part true
+Gear Index -1
+Data:
+/....
+.672.
+.....
+
+Number 732
+Length 3
+Line 29
+Col 62
+Part true
+Gear Index -1
+Data:
+.....
+.732.
+..&..
+
+Number 988
+Length 3
+Line 29
+Col 66
+Part true
+Gear Index -1
+Data:
+...=.
+.988.
+.....
+
+Number 846
+Length 3
+Line 29
+Col 76
+Part true
+Gear Index 4165
+Data:
+.....
+.846.
+..*..
+
+Number 31
+Length 2
+Line 29
+Col 86
+Part true
+Gear Index -1
+Data:
+....
+.31.
+.+..
+
+Number 437
+Length 3
+Line 29
+Col 93
+Part true
+Gear Index -1
+Data:
+..@..
+.437.
+.....
+
+Number 697
+Length 3
+Line 29
+Col 110
+Part true
+Gear Index 3916
+Data:
+.*...
+.697.
+.....
+
+Number 370
+Length 3
+Line 29
+Col 115
+Part false
+Gear Index -1
+Data:
+.....
+.370.
+.....
+
+Number 655
+Length 3
+Line 29
+Col 121
+Part true
+Gear Index 4208
+Data:
+.....
+.655.
+*....
+
+Number 634
+Length 3
+Line 29
+Col 135
+Part true
+Gear Index 4224
+Data:
+.....
+.634.
+..*..
+
+Number 188
+Length 3
+Line 30
+Col 7
+Part true
+Gear Index -1
+Data:
+.....
+.188.
+.#...
+
+Number 753
+Length 3
+Line 30
+Col 11
+Part true
+Gear Index -1
+Data:
+...&.
+.753.
+.....
+
+Number 34
+Length 2
+Line 30
+Col 19
+Part true
+Gear Index -1
+Data:
+%...
+.34.
+....
+
+Number 342
+Length 3
+Line 30
+Col 32
+Part true
+Gear Index 4123
+Data:
+.....
+.342*
+.....
+
+Number 415
+Length 3
+Line 30
+Col 36
+Part true
+Gear Index 4123
+Data:
+.....
+*415.
+.....
+
+Number 792
+Length 3
+Line 30
+Col 43
+Part true
+Gear Index 4274
+Data:
+.....
+.792.
+...*.
+
+Number 744
+Length 3
+Line 30
+Col 58
+Part true
+Gear Index 4288
+Data:
+.....
+.744.
+..*..
+
+Number 584
+Length 3
+Line 30
+Col 82
+Part true
+Gear Index -1
+Data:
+.&...
+.584.
+.....
+
+Number 208
+Length 3
+Line 30
+Col 98
+Part true
+Gear Index 4185
+Data:
+.....
+*208.
+.....
+
+Number 754
+Length 3
+Line 30
+Col 126
+Part true
+Gear Index -1
+Data:
+.....
+.754.
+...%.
+
+Number 570
+Length 3
+Line 31
+Col 3
+Part false
+Gear Index -1
+Data:
+.....
+.570.
+.....
+
+Number 989
+Length 3
+Line 31
+Col 50
+Part true
+Gear Index 4282
+Data:
+.....
+.989*
+.....
+
+Number 695
+Length 3
+Line 31
+Col 54
+Part true
+Gear Index 4282
+Data:
+.....
+*695.
+.....
+
+Number 338
+Length 3
+Line 31
+Col 70
+Part true
+Gear Index -1
+Data:
+...#.
+.338.
+.....
+
+Number 940
+Length 3
+Line 31
+Col 76
+Part true
+Gear Index 4165
+Data:
+..*..
+.940.
+.....
+
+Number 865
+Length 3
+Line 31
+Col 89
+Part true
+Gear Index -1
+Data:
+.....
+$865.
+.....
+
+Number 950
+Length 3
+Line 31
+Col 94
+Part true
+Gear Index 4185
+Data:
+....*
+.950.
+.....
+
+Number 892
+Length 3
+Line 31
+Col 105
+Part true
+Gear Index -1
+Data:
+$....
+.892.
+.....
+
+Number 751
+Length 3
+Line 31
+Col 120
+Part true
+Gear Index 4208
+Data:
+.*...
+.751.
+.....
+
+Number 378
+Length 3
+Line 31
+Col 132
+Part true
+Gear Index 4504
+Data:
+.....
+.378.
+...*.
+
+Number 493
+Length 3
+Line 31
+Col 136
+Part true
+Gear Index 4224
+Data:
+.*...
+.493.
+.....
+
+Number 702
+Length 3
+Line 32
+Col 11
+Part true
+Gear Index 4523
+Data:
+.....
+.702.
+..*..
+
+Number 290
+Length 3
+Line 32
+Col 22
+Part false
+Gear Index -1
+Data:
+.....
+.290.
+.....
+
+Number 277
+Length 3
+Line 32
+Col 30
+Part true
+Gear Index 4399
+Data:
+.....
+*277.
+.....
+
+Number 689
+Length 3
+Line 32
+Col 46
+Part true
+Gear Index 4274
+Data:
+*....
+.689.
+.....
+
+Number 787
+Length 3
+Line 32
+Col 63
+Part true
+Gear Index 4576
+Data:
+.....
+.787.
+...*.
+
+Number 53
+Length 2
+Line 32
+Col 80
+Part true
+Gear Index -1
+Data:
+....
+.53@
+....
+
+Number 879
+Length 3
+Line 32
+Col 99
+Part true
+Gear Index -1
+Data:
+.....
+%879.
+.....
+
+Number 80
+Length 2
+Line 33
+Col 5
+Part true
+Gear Index 4656
+Data:
+....
+.80.
+*...
+
+Number 126
+Length 3
+Line 33
+Col 26
+Part true
+Gear Index 4399
+Data:
+....*
+.126.
+.....
+
+Number 519
+Length 3
+Line 33
+Col 41
+Part false
+Gear Index -1
+Data:
+.....
+.519.
+.....
+
+Number 809
+Length 3
+Line 33
+Col 52
+Part false
+Gear Index -1
+Data:
+.....
+.809.
+.....
+
+Number 781
+Length 3
+Line 33
+Col 57
+Part true
+Gear Index -1
+Data:
+.....
+.781.
+...-.
+
+Number 353
+Length 3
+Line 33
+Col 68
+Part true
+Gear Index -1
+Data:
+.....
+.353$
+.....
+
+Number 876
+Length 3
+Line 33
+Col 73
+Part true
+Gear Index 4726
+Data:
+.....
+.876.
+..*..
+
+Number 43
+Length 2
+Line 33
+Col 84
+Part false
+Gear Index -1
+Data:
+....
+.43.
+....
+
+Number 484
+Length 3
+Line 33
+Col 118
+Part true
+Gear Index -1
+Data:
+.....
+.484.
+...-.
+
+Number 538
+Length 3
+Line 33
+Col 134
+Part true
+Gear Index 4504
+Data:
+.*...
+.538.
+.....
+
+Number 816
+Length 3
+Line 34
+Col 12
+Part true
+Gear Index 4523
+Data:
+.*...
+.816.
+.....
+
+Number 128
+Length 3
+Line 34
+Col 22
+Part true
+Gear Index 4815
+Data:
+.....
+.128.
+.*...
+
+Number 397
+Length 3
+Line 34
+Col 30
+Part true
+Gear Index 4822
+Data:
+.....
+.397.
+*....
+
+Number 242
+Length 3
+Line 34
+Col 35
+Part true
+Gear Index 4827
+Data:
+.....
+.242.
+*....
+
+Number 240
+Length 3
+Line 34
+Col 47
+Part true
+Gear Index 4839
+Data:
+.....
+.240.
+*....
+
+Number 902
+Length 3
+Line 34
+Col 64
+Part true
+Gear Index 4576
+Data:
+..*..
+.902.
+.....
+
+Number 896
+Length 3
+Line 34
+Col 90
+Part true
+Gear Index -1
+Data:
+.....
+.896.
+.@...
+
+Number 988
+Length 3
+Line 34
+Col 105
+Part true
+Gear Index -1
+Data:
+....%
+.988.
+.....
+
+Number 499
+Length 3
+Line 34
+Col 111
+Part true
+Gear Index 4904
+Data:
+.....
+.499.
+.*...
+
+Number 544
+Length 3
+Line 34
+Col 124
+Part true
+Gear Index 4916
+Data:
+.....
+.544.
+*....
+
+Number 616
+Length 3
+Line 34
+Col 130
+Part true
+Gear Index -1
+Data:
+.=...
+.616.
+.....
+
+Number 218
+Length 3
+Line 35
+Col 3
+Part true
+Gear Index 4656
+Data:
+..*..
+.218.
+.....
+
+Number 568
+Length 3
+Line 35
+Col 8
+Part true
+Gear Index 4945
+Data:
+.....
+.568.
+....*
+
+Number 774
+Length 3
+Line 35
+Col 17
+Part false
+Gear Index -1
+Data:
+.....
+.774.
+.....
+
+Number 502
+Length 3
+Line 35
+Col 40
+Part true
+Gear Index -1
+Data:
+.....
+.502.
+...@.
+
+Number 161
+Length 3
+Line 35
+Col 52
+Part false
+Gear Index -1
+Data:
+.....
+.161.
+.....
+
+Number 442
+Length 3
+Line 35
+Col 70
+Part false
+Gear Index -1
+Data:
+.....
+.442.
+.....
+
+Number 733
+Length 3
+Line 35
+Col 76
+Part true
+Gear Index 5011
+Data:
+.....
+.733.
+..*..
+
+Number 41
+Length 2
+Line 35
+Col 94
+Part true
+Gear Index -1
+Data:
+....
+.41.
+...-
+
+Number 516
+Length 3
+Line 35
+Col 100
+Part true
+Gear Index -1
+Data:
+.....
+-516.
+.....
+
+Number 360
+Length 3
+Line 35
+Col 115
+Part false
+Gear Index -1
+Data:
+.....
+.360.
+.....
+
+Number 708
+Length 3
+Line 35
+Col 134
+Part true
+Gear Index 5067
+Data:
+.....
+.708.
+*....
+
+Number 199
+Length 3
+Line 36
+Col 12
+Part true
+Gear Index 4945
+Data:
+.....
+*199.
+.....
+
+Number 936
+Length 3
+Line 36
+Col 22
+Part true
+Gear Index 4815
+Data:
+.*...
+.936.
+.....
+
+Number 776
+Length 3
+Line 36
+Col 26
+Part true
+Gear Index 4822
+Data:
+....*
+.776.
+.....
+
+Number 151
+Length 3
+Line 36
+Col 32
+Part true
+Gear Index 4827
+Data:
+...*.
+.151.
+.....
+
+Number 695
+Length 3
+Line 36
+Col 45
+Part true
+Gear Index 4839
+Data:
+..*..
+.695.
+.....
+
+Number 851
+Length 3
+Line 36
+Col 104
+Part false
+Gear Index -1
+Data:
+.....
+.851.
+.....
+
+Number 581
+Length 3
+Line 36
+Col 108
+Part true
+Gear Index 4904
+Data:
+....*
+.581.
+.....
+
+Number 632
+Length 3
+Line 36
+Col 119
+Part true
+Gear Index 5197
+Data:
+.....
+.632.
+....*
+
+Number 125
+Length 3
+Line 36
+Col 124
+Part true
+Gear Index 4916
+Data:
+*....
+.125.
+.....
+
+Number 453
+Length 3
+Line 37
+Col 49
+Part true
+Gear Index 5267
+Data:
+.....
+.453.
+...*.
+
+Number 414
+Length 3
+Line 37
+Col 53
+Part true
+Gear Index 5272
+Data:
+.....
+.414.
+....*
+
+Number 602
+Length 3
+Line 37
+Col 59
+Part true
+Gear Index 5278
+Data:
+.....
+.602.
+....*
+
+Number 141
+Length 3
+Line 37
+Col 75
+Part true
+Gear Index 5011
+Data:
+...*.
+.141.
+.....
+
+Number 958
+Length 3
+Line 37
+Col 82
+Part true
+Gear Index 5297
+Data:
+.....
+.958.
+*....
+
+Number 572
+Length 3
+Line 37
+Col 86
+Part true
+Gear Index 5305
+Data:
+.....
+.572.
+....*
+
+Number 369
+Length 3
+Line 37
+Col 112
+Part true
+Gear Index 5329
+Data:
+.....
+.369.
+..*..
+
+Number 838
+Length 3
+Line 37
+Col 130
+Part true
+Gear Index 5067
+Data:
+....*
+.838.
+.....
+
+Number 211
+Length 3
+Line 38
+Col 8
+Part true
+Gear Index -1
+Data:
+.....
+.211.
+..@..
+
+Number 809
+Length 3
+Line 38
+Col 14
+Part true
+Gear Index 5373
+Data:
+.....
+.809.
+...*.
+
+Number 820
+Length 3
+Line 38
+Col 20
+Part true
+Gear Index -1
+Data:
+.....
+.820.
+.+...
+
+Number 335
+Length 3
+Line 38
+Col 42
+Part true
+Gear Index 5399
+Data:
+.....
+.335.
+.*...
+
+Number 35
+Length 2
+Line 38
+Col 79
+Part true
+Gear Index 5297
+Data:
+....
+.35*
+....
+
+Number 291
+Length 3
+Line 38
+Col 94
+Part true
+Gear Index -1
+Data:
+.#...
+.291.
+.....
+
+Number 380
+Length 3
+Line 38
+Col 98
+Part true
+Gear Index 5174
+Data:
+..*..
+.380.
+.....
+
+Number 356
+Length 3
+Line 38
+Col 102
+Part false
+Gear Index -1
+Data:
+.....
+.356.
+.....
+
+Number 451
+Length 3
+Line 38
+Col 116
+Part true
+Gear Index 5335
+Data:
+.....
+.451*
+.....
+
+Number 443
+Length 3
+Line 38
+Col 122
+Part true
+Gear Index 5197
+Data:
+.*...
+.443.
+.....
+
+Number 308
+Length 3
+Line 38
+Col 126
+Part true
+Gear Index 5485
+Data:
+.....
+.308.
+...*.
+
+Number 444
+Length 3
+Line 38
+Col 137
+Part true
+Gear Index 5352
+Data:
+.....
+*444.
+.....
+
+Number 639
+Length 3
+Line 39
+Col 37
+Part true
+Gear Index -1
+Data:
+.+...
+.639.
+.....
+
+Number 246
+Length 3
+Line 39
+Col 48
+Part true
+Gear Index 5267
+Data:
+....*
+.246.
+.....
+
+Number 29
+Length 2
+Line 39
+Col 63
+Part true
+Gear Index 5278
+Data:
+*...
+.29.
+....
+
+Number 473
+Length 3
+Line 39
+Col 74
+Part true
+Gear Index -1
+Data:
+.....
+.473.
+...$.
+
+Number 662
+Length 3
+Line 39
+Col 89
+Part true
+Gear Index 5305
+Data:
+.*...
+.662.
+.....
+
+Number 652
+Length 3
+Line 39
+Col 107
+Part true
+Gear Index -1
+Data:
+.....
+.652.
++....
+
+Number 382
+Length 3
+Line 39
+Col 111
+Part true
+Gear Index 5329
+Data:
+...*.
+.382.
+.....
+
+Number 299
+Length 3
+Line 39
+Col 133
+Part true
+Gear Index 5352
+Data:
+....*
+.299.
+.....
+
+Number 245
+Length 3
+Line 40
+Col 16
+Part true
+Gear Index 5373
+Data:
+.*...
+.245.
+.....
+
+Number 344
+Length 3
+Line 40
+Col 30
+Part true
+Gear Index 5389
+Data:
+...*.
+.344.
+.....
+
+Number 867
+Length 3
+Line 40
+Col 43
+Part true
+Gear Index 5399
+Data:
+*....
+.867.
+.....
+
+Number 460
+Length 3
+Line 40
+Col 55
+Part true
+Gear Index -1
+Data:
+.....
+.460.
+...-.
+
+Number 738
+Length 3
+Line 40
+Col 66
+Part true
+Gear Index 5567
+Data:
+.....
+.738*
+.....
+
+Number 608
+Length 3
+Line 40
+Col 70
+Part true
+Gear Index 5567
+Data:
+.....
+*608.
+.....
+
+Number 934
+Length 3
+Line 40
+Col 94
+Part true
+Gear Index 5733
+Data:
+.....
+.934.
+.*...
+
+Number 68
+Length 2
+Line 40
+Col 99
+Part true
+Gear Index 5737
+Data:
+....
+.68.
+*...
+
+Number 653
+Length 3
+Line 40
+Col 117
+Part true
+Gear Index -1
+Data:
+.....
+@653.
+.....
+
+Number 145
+Length 3
+Line 40
+Col 121
+Part true
+Gear Index -1
+Data:
+.....
+.145.
+..=..
+
+Number 992
+Length 3
+Line 40
+Col 125
+Part true
+Gear Index 5485
+Data:
+....*
+.992.
+.....
+
+Number 79
+Length 2
+Line 41
+Col 3
+Part true
+Gear Index -1
+Data:
+....
+.79$
+....
+
+Number 69
+Length 2
+Line 41
+Col 7
+Part true
+Gear Index -1
+Data:
+....
+.69+
+....
+
+Number 361
+Length 3
+Line 41
+Col 12
+Part true
+Gear Index 5509
+Data:
+*....
+.361.
+.....
+
+Number 397
+Length 3
+Line 41
+Col 83
+Part true
+Gear Index -1
+Data:
+.+...
+.397.
+.....
+
+Number 582
+Length 3
+Line 41
+Col 109
+Part true
+Gear Index -1
+Data:
+.....
+&582.
+.....
+
+Number 311
+Length 3
+Line 41
+Col 131
+Part true
+Gear Index -1
+Data:
+.....
+/311.
+.....
+
+Number 987
+Length 3
+Line 41
+Col 136
+Part true
+Gear Index 5916
+Data:
+.....
+.987.
+.*...
+
+Number 756
+Length 3
+Line 42
+Col 22
+Part true
+Gear Index -1
+Data:
+..-..
+.756.
+.....
+
+Number 452
+Length 3
+Line 42
+Col 34
+Part true
+Gear Index 5954
+Data:
+.....
+.452.
+*....
+
+Number 504
+Length 3
+Line 42
+Col 41
+Part true
+Gear Index -1
+Data:
+.....
+.504.
+&....
+
+Number 655
+Length 3
+Line 42
+Col 46
+Part true
+Gear Index 5967
+Data:
+.....
+.655.
+.*...
+
+Number 886
+Length 3
+Line 42
+Col 50
+Part false
+Gear Index -1
+Data:
+.....
+.886.
+.....
+
+Number 617
+Length 3
+Line 42
+Col 69
+Part true
+Gear Index -1
+Data:
+.....
+.617$
+.....
+
+Number 363
+Length 3
+Line 42
+Col 76
+Part true
+Gear Index 5999
+Data:
+.....
+.363.
+...*.
+
+Number 953
+Length 3
+Line 42
+Col 92
+Part true
+Gear Index 5733
+Data:
+...*.
+.953.
+.....
+
+Number 210
+Length 3
+Line 42
+Col 96
+Part true
+Gear Index 5737
+Data:
+...*.
+.210.
+.....
+
+Number 291
+Length 3
+Line 43
+Col 17
+Part true
+Gear Index 6082
+Data:
+.....
+.291.
+....*
+
+Number 416
+Length 3
+Line 43
+Col 59
+Part true
+Gear Index 6124
+Data:
+.....
+.416.
+....*
+
+Number 529
+Length 3
+Line 43
+Col 105
+Part true
+Gear Index 6170
+Data:
+.....
+.529.
+....*
+
+Number 560
+Length 3
+Line 43
+Col 116
+Part true
+Gear Index -1
+Data:
+#....
+.560.
+.....
+
+Number 100
+Length 3
+Line 43
+Col 124
+Part true
+Gear Index 6187
+Data:
+.....
+.100.
+..*..
+
+Number 309
+Length 3
+Line 43
+Col 130
+Part true
+Gear Index -1
+Data:
+.....
+.309.
+/....
+
+Number 430
+Length 3
+Line 43
+Col 135
+Part true
+Gear Index 5916
+Data:
+..*..
+.430.
+.....
+
+Number 173
+Length 3
+Line 44
+Col 11
+Part true
+Gear Index -1
+Data:
+#....
+.173.
+.....
+
+Number 322
+Length 3
+Line 44
+Col 34
+Part true
+Gear Index 5954
+Data:
+*....
+.322.
+.....
+
+Number 573
+Length 3
+Line 44
+Col 45
+Part true
+Gear Index 5967
+Data:
+..*..
+.573.
+.....
+
+Number 140
+Length 3
+Line 44
+Col 63
+Part true
+Gear Index 6124
+Data:
+.....
+*140.
+.....
+
+Number 806
+Length 3
+Line 44
+Col 79
+Part true
+Gear Index 5999
+Data:
+*....
+.806.
+.....
+
+Number 817
+Length 3
+Line 44
+Col 86
+Part true
+Gear Index -1
+Data:
+.....
+/817.
+.....
+
+Number 405
+Length 3
+Line 44
+Col 94
+Part true
+Gear Index -1
+Data:
+.....
+.405.
+..&..
+
+Number 854
+Length 3
+Line 44
+Col 99
+Part true
+Gear Index 6304
+Data:
+.....
+.854.
+...*.
+
+Number 383
+Length 3
+Line 45
+Col 3
+Part true
+Gear Index 6349
+Data:
+.....
+.383.
+...*.
+
+Number 633
+Length 3
+Line 45
+Col 18
+Part true
+Gear Index 6082
+Data:
+...*.
+.633.
+.....
+
+Number 219
+Length 3
+Line 45
+Col 26
+Part true
+Gear Index -1
+Data:
+..=..
+.219.
+.....
+
+Number 76
+Length 2
+Line 45
+Col 31
+Part true
+Gear Index -1
+Data:
+....
+-76.
+....
+
+Number 975
+Length 3
+Line 45
+Col 38
+Part true
+Gear Index 6382
+Data:
+.....
+.975.
+.*...
+
+Number 734
+Length 3
+Line 45
+Col 49
+Part false
+Gear Index -1
+Data:
+.....
+.734.
+.....
+
+Number 47
+Length 2
+Line 45
+Col 57
+Part true
+Gear Index -1
+Data:
+....
+.47@
+....
+
+Number 457
+Length 3
+Line 45
+Col 70
+Part true
+Gear Index 6417
+Data:
+.....
+.457.
+....*
+
+Number 108
+Length 3
+Line 45
+Col 74
+Part true
+Gear Index 6417
+Data:
+.....
+.108.
+*....
+
+Number 746
+Length 3
+Line 45
+Col 109
+Part true
+Gear Index 6170
+Data:
+*....
+.746.
+.....
+
+Number 769
+Length 3
+Line 45
+Col 115
+Part true
+Gear Index -1
+Data:
+.....
+.769.
+....&
+
+Number 279
+Length 3
+Line 45
+Col 125
+Part true
+Gear Index 6187
+Data:
+.*...
+.279.
+.....
+
+Number 157
+Length 3
+Line 45
+Col 138
+Part false
+Gear Index -1
+Data:
+....
+.157
+....
+
+Number 442
+Length 3
+Line 46
+Col 80
+Part true
+Gear Index -1
+Data:
+.....
+.442.
+...+.
+
+Number 850
+Length 3
+Line 46
+Col 87
+Part true
+Gear Index 6434
+Data:
+.....
+.850*
+.....
+
+Number 577
+Length 3
+Line 46
+Col 100
+Part true
+Gear Index 6304
+Data:
+..*..
+.577.
+.....
+
+Number 286
+Length 3
+Line 46
+Col 129
+Part true
+Gear Index 6335
+Data:
+....*
+.286.
+.....
+
+Number 430
+Length 3
+Line 46
+Col 133
+Part true
+Gear Index 6335
+Data:
+*....
+.430.
+.....
+
+Number 330
+Length 3
+Line 47
+Col 4
+Part true
+Gear Index 6349
+Data:
+..*..
+.330.
+.....
+
+Number 226
+Length 3
+Line 47
+Col 9
+Part true
+Gear Index 6634
+Data:
+.....
+.226.
+*....
+
+Number 740
+Length 3
+Line 47
+Col 23
+Part true
+Gear Index 6650
+Data:
+.....
+.740.
+..*..
+
+Number 552
+Length 3
+Line 47
+Col 34
+Part true
+Gear Index 6660
+Data:
+.....
+.552.
+.*...
+
+Number 294
+Length 3
+Line 47
+Col 38
+Part true
+Gear Index 6382
+Data:
+.*...
+.294.
+.....
+
+Number 250
+Length 3
+Line 47
+Col 43
+Part true
+Gear Index -1
+Data:
+.....
+%250.
+.....
+
+Number 695
+Length 3
+Line 47
+Col 54
+Part true
+Gear Index 6682
+Data:
+.....
+.695.
+...*.
+
+Number 484
+Length 3
+Line 47
+Col 67
+Part true
+Gear Index 6695
+Data:
+.....
+.484.
+...*.
+
+Number 708
+Length 3
+Line 47
+Col 75
+Part true
+Gear Index -1
+Data:
+....@
+.708.
+.....
+
+Number 439
+Length 3
+Line 47
+Col 91
+Part true
+Gear Index 6434
+Data:
+*....
+.439.
+.....
+
+Number 246
+Length 3
+Line 47
+Col 95
+Part true
+Gear Index 6722
+Data:
+.....
+.246.
+..*..
+
+Number 432
+Length 3
+Line 47
+Col 105
+Part true
+Gear Index -1
+Data:
+.$...
+.432.
+.....
+
+Number 762
+Length 3
+Line 47
+Col 109
+Part true
+Gear Index -1
+Data:
+.....
+.762&
+.....
+
+Number 277
+Length 3
+Line 47
+Col 121
+Part true
+Gear Index -1
+Data:
+.....
+$277.
+.....
+
+Number 293
+Length 3
+Line 48
+Col 16
+Part true
+Gear Index 6785
+Data:
+.....
+.293.
+...*.
+
+Number 331
+Length 3
+Line 48
+Col 28
+Part true
+Gear Index 6796
+Data:
+.....
+.331.
+..*..
+
+Number 19
+Length 2
+Line 48
+Col 59
+Part true
+Gear Index 6825
+Data:
+....
+.19.
+*...
+
+Number 172
+Length 3
+Line 48
+Col 115
+Part true
+Gear Index -1
+Data:
+.....
+-172.
+.....
+
+Number 905
+Length 3
+Line 48
+Col 128
+Part true
+Gear Index -1
+Data:
+.....
+-905.
+.....
+
+Number 706
+Length 3
+Line 48
+Col 136
+Part false
+Gear Index -1
+Data:
+.....
+.706.
+.....
+
+Number 996
+Length 3
+Line 49
+Col 7
+Part true
+Gear Index 6634
+Data:
+..*..
+.996.
+.....
+
+Number 795
+Length 3
+Line 49
+Col 21
+Part true
+Gear Index 6650
+Data:
+....*
+.795.
+.....
+
+Number 747
+Length 3
+Line 49
+Col 34
+Part true
+Gear Index 6660
+Data:
+.*...
+.747.
+.....
+
+Number 995
+Length 3
+Line 49
+Col 41
+Part true
+Gear Index 6807
+Data:
+.....
+*995.
+.....
+
+Number 964
+Length 3
+Line 49
+Col 46
+Part false
+Gear Index -1
+Data:
+.....
+.964.
+.....
+
+Number 53
+Length 2
+Line 49
+Col 54
+Part true
+Gear Index 6682
+Data:
+...*
+.53.
+....
+
+Number 823
+Length 3
+Line 49
+Col 64
+Part true
+Gear Index -1
+Data:
+.....
+.823.
+.&...
+
+Number 774
+Length 3
+Line 49
+Col 68
+Part true
+Gear Index 6695
+Data:
+..*..
+.774.
+.....
+
+Number 135
+Length 3
+Line 49
+Col 85
+Part true
+Gear Index -1
+Data:
+.....
+.135.
+.=...
+
+Number 794
+Length 3
+Line 49
+Col 96
+Part true
+Gear Index 6722
+Data:
+.*...
+.794.
+.....
+
+Number 74
+Length 2
+Line 49
+Col 109
+Part true
+Gear Index -1
+Data:
+....
+/74.
+....
+
+Number 995
+Length 3
+Line 50
+Col 2
+Part false
+Gear Index -1
+Data:
+.....
+.995.
+.....
+
+Number 557
+Length 3
+Line 50
+Col 15
+Part true
+Gear Index 6785
+Data:
+....*
+.557.
+.....
+
+Number 623
+Length 3
+Line 50
+Col 30
+Part true
+Gear Index 6796
+Data:
+*....
+.623.
+.....
+
+Number 151
+Length 3
+Line 50
+Col 59
+Part true
+Gear Index 6825
+Data:
+*....
+.151.
+.....
+
+Number 478
+Length 3
+Line 50
+Col 74
+Part true
+Gear Index -1
+Data:
+#....
+.478.
+.....
+
+Number 634
+Length 3
+Line 50
+Col 104
+Part true
+Gear Index -1
+Data:
+..&..
+.634.
+.....
+
+Number 918
+Length 3
+Line 50
+Col 116
+Part true
+Gear Index 7167
+Data:
+.....
+.918.
+...*.
+
+Number 487
+Length 3
+Line 50
+Col 121
+Part false
+Gear Index -1
+Data:
+.....
+.487.
+.....
+
+Number 150
+Length 3
+Line 51
+Col 21
+Part true
+Gear Index 7073
+Data:
+.....
+.150*
+.....
+
+Number 861
+Length 3
+Line 51
+Col 25
+Part true
+Gear Index 7073
+Data:
+.....
+*861.
+.....
+
+Number 864
+Length 3
+Line 51
+Col 36
+Part true
+Gear Index 7227
+Data:
+.....
+.864.
+..*..
+
+Number 676
+Length 3
+Line 51
+Col 46
+Part true
+Gear Index 7235
+Data:
+.....
+.676.
+*....
+
+Number 710
+Length 3
+Line 51
+Col 51
+Part true
+Gear Index -1
+Data:
+%....
+.710.
+.....
+
+Number 781
+Length 3
+Line 51
+Col 81
+Part true
+Gear Index 6989
+Data:
+.*...
+.781.
+.....
+
+Number 272
+Length 3
+Line 51
+Col 89
+Part true
+Gear Index -1
+Data:
+.....
+.272.
+.$...
+
+Number 782
+Length 3
+Line 51
+Col 99
+Part true
+Gear Index -1
+Data:
+.....
+.782@
+.....
+
+Number 492
+Length 3
+Line 51
+Col 111
+Part true
+Gear Index -1
+Data:
+.....
+.492.
+..-..
+
+Number 575
+Length 3
+Line 52
+Col 5
+Part true
+Gear Index 7339
+Data:
+.....
+.575.
+....*
+
+Number 304
+Length 3
+Line 52
+Col 16
+Part true
+Gear Index -1
+Data:
+.....
+#304.
+.....
+
+Number 464
+Length 3
+Line 52
+Col 63
+Part true
+Gear Index 7252
+Data:
+.....
+*464.
+.....
+
+Number 461
+Length 3
+Line 52
+Col 107
+Part true
+Gear Index 7437
+Data:
+.....
+.461.
+*....
+
+Number 709
+Length 3
+Line 52
+Col 119
+Part true
+Gear Index 7167
+Data:
+*....
+.709.
+.....
+
+Number 908
+Length 3
+Line 52
+Col 131
+Part true
+Gear Index -1
+Data:
+...-.
+.908.
+.....
+
+Number 875
+Length 3
+Line 52
+Col 136
+Part true
+Gear Index -1
+Data:
+..=..
+.875.
+.....
+
+Number 859
+Length 3
+Line 53
+Col 23
+Part true
+Gear Index 7498
+Data:
+.....
+.859.
+....*
+
+Number 26
+Length 2
+Line 53
+Col 27
+Part true
+Gear Index 7498
+Data:
+....
+.26.
+*...
+
+Number 243
+Length 3
+Line 53
+Col 30
+Part true
+Gear Index -1
+Data:
+.../.
+.243.
+.....
+
+Number 931
+Length 3
+Line 53
+Col 34
+Part true
+Gear Index 7227
+Data:
+....*
+.931.
+.....
+
+Number 889
+Length 3
+Line 53
+Col 42
+Part true
+Gear Index 7235
+Data:
+....*
+.889.
+.....
+
+Number 306
+Length 3
+Line 53
+Col 72
+Part true
+Gear Index 7547
+Data:
+.....
+.306.
+....*
+
+Number 861
+Length 3
+Line 53
+Col 93
+Part true
+Gear Index -1
+Data:
+.....
+.861$
+.....
+
+Number 280
+Length 3
+Line 53
+Col 115
+Part true
+Gear Index 7586
+Data:
+.....
+.280.
+*....
+
+Number 383
+Length 3
+Line 53
+Col 127
+Part true
+Gear Index -1
+Data:
+..#..
+.383.
+.....
+
+Number 428
+Length 3
+Line 54
+Col 1
+Part true
+Gear Index 7617
+Data:
+....
+428.
+...*
+
+Number 404
+Length 3
+Line 54
+Col 7
+Part true
+Gear Index 7339
+Data:
+..*..
+.404.
+.....
+
+Number 42
+Length 2
+Line 54
+Col 14
+Part true
+Gear Index 7485
+Data:
+....
+*42.
+....
+
+Number 917
+Length 3
+Line 54
+Col 53
+Part true
+Gear Index -1
+Data:
+.....
+.917.
+-....
+
+Number 127
+Length 3
+Line 54
+Col 60
+Part true
+Gear Index 7675
+Data:
+.....
+.127.
+...*.
+
+Number 863
+Length 3
+Line 54
+Col 98
+Part false
+Gear Index -1
+Data:
+.....
+.863.
+.....
+
+Number 599
+Length 3
+Line 54
+Col 103
+Part true
+Gear Index 7437
+Data:
+....*
+.599.
+.....
+
+Number 120
+Length 3
+Line 54
+Col 111
+Part true
+Gear Index 7586
+Data:
+.....
+.120*
+.....
+
+Number 221
+Length 3
+Line 54
+Col 122
+Part true
+Gear Index 7735
+Data:
+.....
+.221.
+.*...
+
+Number 840
+Length 3
+Line 55
+Col 21
+Part true
+Gear Index 7778
+Data:
+.....
+.840.
+....*
+
+Number 303
+Length 3
+Line 55
+Col 30
+Part false
+Gear Index -1
+Data:
+.....
+.303.
+.....
+
+Number 69
+Length 2
+Line 55
+Col 40
+Part true
+Gear Index -1
+Data:
+.%..
+.69.
+....
+
+Number 990
+Length 3
+Line 55
+Col 76
+Part true
+Gear Index 7547
+Data:
+*....
+.990.
+.....
+
+Number 157
+Length 3
+Line 55
+Col 90
+Part true
+Gear Index -1
+Data:
+&....
+.157.
+.....
+
+Number 209
+Length 3
+Line 55
+Col 134
+Part true
+Gear Index 7609
+Data:
+....*
+.209.
+.....
+
+Number 100
+Length 3
+Line 55
+Col 138
+Part true
+Gear Index 7609
+Data:
+*...
+.100
+....
+
+Number 723
+Length 3
+Line 56
+Col 2
+Part true
+Gear Index 7617
+Data:
+...*.
+.723.
+.....
+
+Number 638
+Length 3
+Line 56
+Col 9
+Part true
+Gear Index 7905
+Data:
+.....
+.638.
+..*..
+
+Number 578
+Length 3
+Line 56
+Col 16
+Part true
+Gear Index 7910
+Data:
+.....
+.578.
+*....
+
+Number 70
+Length 2
+Line 56
+Col 27
+Part true
+Gear Index -1
+Data:
+..=.
+.70.
+....
+
+Number 120
+Length 3
+Line 56
+Col 46
+Part true
+Gear Index -1
+Data:
+/....
+.120.
+.....
+
+Number 106
+Length 3
+Line 56
+Col 54
+Part true
+Gear Index -1
+Data:
+.....
+.106.
+...$.
+
+Number 267
+Length 3
+Line 56
+Col 60
+Part true
+Gear Index 7675
+Data:
+...*.
+.267.
+.....
+
+Number 112
+Length 3
+Line 56
+Col 84
+Part true
+Gear Index -1
+Data:
+.....
+.112=
+.....
+
+Number 736
+Length 3
+Line 56
+Col 95
+Part true
+Gear Index -1
+Data:
+.....
+#736.
+.....
+
+Number 974
+Length 3
+Line 56
+Col 100
+Part true
+Gear Index 7996
+Data:
+.....
+.974.
+..*..
+
+Number 103
+Length 3
+Line 56
+Col 121
+Part true
+Gear Index 7735
+Data:
+..*..
+.103.
+.....
+
+Number 632
+Length 3
+Line 56
+Col 126
+Part false
+Gear Index -1
+Data:
+.....
+.632.
+.....
+
+Number 803
+Length 3
+Line 57
+Col 23
+Part true
+Gear Index 7778
+Data:
+..*..
+.803.
+.....
+
+Number 815
+Length 3
+Line 57
+Col 32
+Part true
+Gear Index -1
+Data:
+.....
+.815.
+...#.
+
+Number 74
+Length 2
+Line 57
+Col 68
+Part true
+Gear Index -1
+Data:
+....
+/74.
+....
+
+Number 274
+Length 3
+Line 57
+Col 117
+Part true
+Gear Index 8153
+Data:
+.....
+.274.
+.*...
+
+Number 295
+Length 3
+Line 58
+Col 7
+Part true
+Gear Index 7905
+Data:
+....*
+.295.
+.....
+
+Number 432
+Length 3
+Line 58
+Col 13
+Part true
+Gear Index 7910
+Data:
+...*.
+.432.
+.....
+
+Number 812
+Length 3
+Line 58
+Col 18
+Part true
+Gear Index -1
+Data:
+.....
+$812.
+.....
+
+Number 864
+Length 3
+Line 58
+Col 38
+Part true
+Gear Index 7935
+Data:
+...*.
+.864.
+.....
+
+Number 143
+Length 3
+Line 58
+Col 42
+Part true
+Gear Index 8222
+Data:
+.....
+.143.
+....*
+
+Number 515
+Length 3
+Line 58
+Col 77
+Part true
+Gear Index -1
+Data:
+....#
+.515.
+.....
+
+Number 376
+Length 3
+Line 58
+Col 99
+Part true
+Gear Index 7996
+Data:
+...*.
+.376.
+.....
+
+Number 208
+Length 3
+Line 58
+Col 107
+Part true
+Gear Index -1
+Data:
+....#
+.208.
+.....
+
+Number 832
+Length 3
+Line 58
+Col 131
+Part true
+Gear Index -1
+Data:
+.....
+%832.
+.....
+
+Number 702
+Length 3
+Line 58
+Col 137
+Part false
+Gear Index -1
+Data:
+.....
+.702.
+.....
+
+Number 619
+Length 3
+Line 59
+Col 55
+Part true
+Gear Index 8373
+Data:
+.....
+.619.
+.*...
+
+Number 443
+Length 3
+Line 59
+Col 64
+Part true
+Gear Index -1
+Data:
+.@...
+.443.
+.....
+
+Number 73
+Length 2
+Line 59
+Col 83
+Part true
+Gear Index -1
+Data:
+....
+/73.
+....
+
+Number 455
+Length 3
+Line 59
+Col 86
+Part true
+Gear Index 8405
+Data:
+.....
+.455.
+..*..
+
+Number 685
+Length 3
+Line 59
+Col 103
+Part true
+Gear Index 8420
+Data:
+.....
+.685.
+*....
+
+Number 287
+Length 3
+Line 59
+Col 118
+Part true
+Gear Index 8153
+Data:
+*....
+.287.
+.....
+
+Number 859
+Length 3
+Line 60
+Col 6
+Part false
+Gear Index -1
+Data:
+.....
+.859.
+.....
+
+Number 893
+Length 3
+Line 60
+Col 16
+Part true
+Gear Index 8476
+Data:
+.....
+.893.
+..*..
+
+Number 85
+Length 2
+Line 60
+Col 25
+Part true
+Gear Index -1
+Data:
+....
+.85.
+..#.
+
+Number 509
+Length 3
+Line 60
+Col 29
+Part true
+Gear Index -1
+Data:
+...&.
+.509.
+.....
+
+Number 111
+Length 3
+Line 60
+Col 34
+Part true
+Gear Index -1
+Data:
+...+.
+.111.
+.....
+
+Number 686
+Length 3
+Line 60
+Col 42
+Part true
+Gear Index 8222
+Data:
+....*
+.686.
+.....
+
+Number 572
+Length 3
+Line 60
+Col 50
+Part true
+Gear Index -1
+Data:
+.....
+.572.
+.$...
+
+Number 415
+Length 3
+Line 60
+Col 59
+Part true
+Gear Index -1
+Data:
+.....
+.415.
+....%
+
+Number 76
+Length 2
+Line 60
+Col 90
+Part true
+Gear Index 8548
+Data:
+....
+.76.
+*...
+
+Number 189
+Length 3
+Line 60
+Col 109
+Part true
+Gear Index -1
+Data:
+.....
+$189.
+.....
+
+Number 128
+Length 3
+Line 60
+Col 114
+Part true
+Gear Index 8573
+Data:
+.....
+.128.
+.*...
+
+Number 817
+Length 3
+Line 60
+Col 124
+Part true
+Gear Index -1
+Data:
+...=.
+.817.
+.....
+
+Number 796
+Length 3
+Line 60
+Col 132
+Part true
+Gear Index -1
+Data:
+.....
+.796#
+.....
+
+Number 360
+Length 3
+Line 61
+Col 11
+Part true
+Gear Index -1
+Data:
+.....
+.360.
+.$...
+
+Number 193
+Length 3
+Line 61
+Col 21
+Part false
+Gear Index -1
+Data:
+.....
+.193.
+.....
+
+Number 506
+Length 3
+Line 61
+Col 38
+Part true
+Gear Index -1
+Data:
+...@.
+.506.
+.....
+
+Number 545
+Length 3
+Line 61
+Col 46
+Part true
+Gear Index 8647
+Data:
+.....
+.545.
+..*..
+
+Number 325
+Length 3
+Line 61
+Col 66
+Part true
+Gear Index 8669
+Data:
+.....
+.325.
+....*
+
+Number 186
+Length 3
+Line 61
+Col 71
+Part true
+Gear Index -1
+Data:
+.....
+.186.
+....$
+
+Number 820
+Length 3
+Line 61
+Col 77
+Part true
+Gear Index -1
+Data:
+.$...
+.820.
+.....
+
+Number 846
+Length 3
+Line 61
+Col 84
+Part true
+Gear Index 8405
+Data:
+....*
+.846.
+.....
+
+Number 590
+Length 3
+Line 61
+Col 94
+Part true
+Gear Index -1
+Data:
+..../
+.590.
+.....
+
+Number 96
+Length 2
+Line 61
+Col 102
+Part true
+Gear Index 8420
+Data:
+.*..
+.96.
+....
+
+Number 613
+Length 3
+Line 62
+Col 16
+Part true
+Gear Index 8476
+Data:
+..*..
+.613.
+.....
+
+Number 141
+Length 3
+Line 62
+Col 28
+Part true
+Gear Index 8769
+Data:
+.....
+.141.
+.*...
+
+Number 428
+Length 3
+Line 62
+Col 90
+Part true
+Gear Index 8548
+Data:
+*....
+.428.
+.....
+
+Number 497
+Length 3
+Line 62
+Col 111
+Part true
+Gear Index 8573
+Data:
+....*
+.497.
+.....
+
+Number 892
+Length 3
+Line 62
+Col 117
+Part true
+Gear Index 8859
+Data:
+.....
+.892.
+..*..
+
+Number 87
+Length 2
+Line 63
+Col 13
+Part true
+Gear Index 8897
+Data:
+....
+.87.
+...*
+
+Number 709
+Length 3
+Line 63
+Col 42
+Part true
+Gear Index -1
+Data:
+.....
+%709.
+.....
+
+Number 772
+Length 3
+Line 63
+Col 46
+Part true
+Gear Index 8647
+Data:
+..*..
+.772.
+.....
+
+Number 358
+Length 3
+Line 63
+Col 57
+Part true
+Gear Index -1
+Data:
+.....
+.358.
+./...
+
+Number 406
+Length 3
+Line 63
+Col 62
+Part true
+Gear Index -1
+Data:
+.....
+.406.
+...+.
+
+Number 355
+Length 3
+Line 63
+Col 66
+Part true
+Gear Index 8669
+Data:
+....*
+.355.
+.....
+
+Number 833
+Length 3
+Line 63
+Col 80
+Part true
+Gear Index 8961
+Data:
+.....
+.833.
+*....
+
+Number 997
+Length 3
+Line 63
+Col 99
+Part false
+Gear Index -1
+Data:
+.....
+.997.
+.....
+
+Number 562
+Length 3
+Line 63
+Col 123
+Part true
+Gear Index -1
+Data:
+.....
+.562.
+...#.
+
+Number 24
+Length 2
+Line 63
+Col 129
+Part true
+Gear Index 9012
+Data:
+....
+.24.
+..*.
+
+Number 316
+Length 3
+Line 63
+Col 135
+Part false
+Gear Index -1
+Data:
+.....
+.316.
+.....
+
+Number 615
+Length 3
+Line 64
+Col 22
+Part true
+Gear Index 9046
+Data:
+.....
+.615.
+..*..
+
+Number 236
+Length 3
+Line 64
+Col 28
+Part true
+Gear Index 8769
+Data:
+.*...
+.236.
+.....
+
+Number 519
+Length 3
+Line 64
+Col 36
+Part true
+Gear Index -1
+Data:
+..../
+.519.
+.....
+
+Number 255
+Length 3
+Line 64
+Col 52
+Part true
+Gear Index -1
+Data:
+$....
+.255.
+.....
+
+Number 617
+Length 3
+Line 64
+Col 76
+Part true
+Gear Index 8961
+Data:
+.....
+.617*
+.....
+
+Number 855
+Length 3
+Line 64
+Col 89
+Part true
+Gear Index -1
+Data:
+#....
+.855.
+.....
+
+Number 34
+Length 2
+Line 64
+Col 106
+Part true
+Gear Index 8848
+Data:
+..*.
+.34.
+....
+
+Number 313
+Length 3
+Line 64
+Col 116
+Part true
+Gear Index 8859
+Data:
+...*.
+.313.
+.....
+
+Number 388
+Length 3
+Line 65
+Col 14
+Part true
+Gear Index 8897
+Data:
+..*..
+.388.
+.....
+
+Number 547
+Length 3
+Line 65
+Col 32
+Part true
+Gear Index -1
+Data:
+.....
+.547.
+..%..
+
+Number 381
+Length 3
+Line 65
+Col 68
+Part true
+Gear Index 9231
+Data:
+.....
+.381.
+*....
+
+Number 118
+Length 3
+Line 65
+Col 85
+Part true
+Gear Index 9250
+Data:
+.....
+.118.
+..*..
+
+Number 400
+Length 3
+Line 65
+Col 93
+Part true
+Gear Index 9259
+Data:
+.....
+.400.
+...*.
+
+Number 71
+Length 2
+Line 65
+Col 97
+Part true
+Gear Index -1
+Data:
+....
+.71+
+....
+
+Number 550
+Length 3
+Line 65
+Col 112
+Part true
+Gear Index 9277
+Data:
+.....
+.550.
+..*..
+
+Number 750
+Length 3
+Line 65
+Col 128
+Part true
+Gear Index 9012
+Data:
+...*.
+.750.
+.....
+
+Number 685
+Length 3
+Line 65
+Col 132
+Part true
+Gear Index 9299
+Data:
+.....
+.685.
+....*
+
+Number 722
+Length 3
+Line 66
+Col 8
+Part true
+Gear Index -1
+Data:
+...-.
+.722.
+.....
+
+Number 932
+Length 3
+Line 66
+Col 18
+Part true
+Gear Index 9324
+Data:
+.....
+.932.
+..*..
+
+Number 793
+Length 3
+Line 66
+Col 22
+Part true
+Gear Index 9046
+Data:
+..*..
+.793.
+.....
+
+Number 470
+Length 3
+Line 66
+Col 28
+Part true
+Gear Index -1
+Data:
+.....
+.470.
+....&
+
+Number 164
+Length 3
+Line 66
+Col 36
+Part true
+Gear Index 9340
+Data:
+.....
+.164.
+*....
+
+Number 647
+Length 3
+Line 66
+Col 42
+Part true
+Gear Index 9209
+Data:
+.....
+.647*
+.....
+
+Number 467
+Length 3
+Line 66
+Col 58
+Part true
+Gear Index -1
+Data:
+.....
+.467.
+@....
+
+Number 468
+Length 3
+Line 66
+Col 64
+Part true
+Gear Index 9231
+Data:
+.....
+.468*
+.....
+
+Number 838
+Length 3
+Line 66
+Col 74
+Part true
+Gear Index 9380
+Data:
+.....
+.838.
+..*..
+
+Number 37
+Length 2
+Line 66
+Col 122
+Part true
+Gear Index -1
+Data:
+....
+.37.
+...%
+
+Number 646
+Length 3
+Line 66
+Col 136
+Part true
+Gear Index 9299
+Data:
+.....
+*646.
+.....
+
+Number 730
+Length 3
+Line 67
+Col 46
+Part true
+Gear Index 9209
+Data:
+*....
+.730.
+.....
+
+Number 492
+Length 3
+Line 67
+Col 51
+Part false
+Gear Index -1
+Data:
+.....
+.492.
+.....
+
+Number 957
+Length 3
+Line 67
+Col 80
+Part false
+Gear Index -1
+Data:
+.....
+.957.
+.....
+
+Number 598
+Length 3
+Line 67
+Col 85
+Part true
+Gear Index 9250
+Data:
+..*..
+.598.
+.....
+
+Number 55
+Length 2
+Line 67
+Col 90
+Part false
+Gear Index -1
+Data:
+....
+.55.
+....
+
+Number 924
+Length 3
+Line 67
+Col 93
+Part true
+Gear Index 9259
+Data:
+...*.
+.924.
+.....
+
+Number 584
+Length 3
+Line 67
+Col 97
+Part true
+Gear Index -1
+Data:
+.....
+.584&
+.....
+
+Number 42
+Length 2
+Line 67
+Col 113
+Part true
+Gear Index 9277
+Data:
+.*..
+.42.
+....
+
+Number 346
+Length 3
+Line 68
+Col 7
+Part true
+Gear Index -1
+Data:
+.....
+.346.
+..+..
+
+Number 141
+Length 3
+Line 68
+Col 12
+Part true
+Gear Index -1
+Data:
+.....
+.141.
+..$..
+
+Number 583
+Length 3
+Line 68
+Col 19
+Part true
+Gear Index 9324
+Data:
+.*...
+.583.
+.....
+
+Number 705
+Length 3
+Line 68
+Col 38
+Part true
+Gear Index 9487
+Data:
+.....
+.705*
+.....
+
+Number 629
+Length 3
+Line 68
+Col 42
+Part true
+Gear Index 9487
+Data:
+.....
+*629.
+.....
+
+Number 18
+Length 2
+Line 68
+Col 66
+Part true
+Gear Index -1
+Data:
+....
+.18.
+...$
+
+Number 713
+Length 3
+Line 68
+Col 76
+Part true
+Gear Index 9380
+Data:
+*....
+.713.
+.....
+
+Number 284
+Length 3
+Line 68
+Col 126
+Part true
+Gear Index 9434
+Data:
+....*
+.284.
+.....
+
+Number 984
+Length 3
+Line 69
+Col 3
+Part true
+Gear Index 9734
+Data:
+.....
+.984.
+....*
+
+Number 957
+Length 3
+Line 69
+Col 29
+Part true
+Gear Index 9760
+Data:
+.....
+.957.
+....*
+
+Number 141
+Length 3
+Line 69
+Col 33
+Part true
+Gear Index 9760
+Data:
+.....
+.141.
+*....
+
+Number 380
+Length 3
+Line 69
+Col 47
+Part true
+Gear Index 9633
+Data:
+.....
+*380.
+.....
+
+Number 748
+Length 3
+Line 69
+Col 53
+Part true
+Gear Index 9782
+Data:
+.....
+.748.
+..*..
+
+Number 999
+Length 3
+Line 69
+Col 57
+Part false
+Gear Index -1
+Data:
+.....
+.999.
+.....
+
+Number 292
+Length 3
+Line 69
+Col 82
+Part true
+Gear Index -1
+Data:
+.....
+.292.
+$....
+
+Number 788
+Length 3
+Line 69
+Col 89
+Part true
+Gear Index 9679
+Data:
+.....
+.788*
+.....
+
+Number 284
+Length 3
+Line 69
+Col 93
+Part true
+Gear Index 9679
+Data:
+.....
+*284.
+.....
+
+Number 124
+Length 3
+Line 69
+Col 117
+Part true
+Gear Index -1
+Data:
+.../.
+.124.
+.....
+
+Number 737
+Length 3
+Line 69
+Col 135
+Part true
+Gear Index 9864
+Data:
+.....
+.737.
+..*..
+
+Number 527
+Length 3
+Line 70
+Col 19
+Part true
+Gear Index -1
+Data:
+.....
+%527.
+.....
+
+Number 639
+Length 3
+Line 70
+Col 23
+Part true
+Gear Index 9613
+Data:
+....*
+.639.
+.....
+
+Number 546
+Length 3
+Line 70
+Col 37
+Part true
+Gear Index 9908
+Data:
+.....
+.546.
+...*.
+
+Number 789
+Length 3
+Line 70
+Col 43
+Part true
+Gear Index 9633
+Data:
+....*
+.789.
+.....
+
+Number 757
+Length 3
+Line 70
+Col 73
+Part true
+Gear Index -1
+Data:
+..#..
+.757.
+.....
+
+Number 395
+Length 3
+Line 70
+Col 111
+Part true
+Gear Index -1
+Data:
+.....
+.395.
+....+
+
+Number 367
+Length 3
+Line 70
+Col 121
+Part true
+Gear Index -1
+Data:
+.....
+.367.
+....=
+
+Number 554
+Length 3
+Line 70
+Col 126
+Part true
+Gear Index -1
+Data:
+.....
+.554.
+....+
+
+Number 738
+Length 3
+Line 70
+Col 131
+Part true
+Gear Index -1
+Data:
+.....
+.738.
+..-..
+
+Number 560
+Length 3
+Line 71
+Col 3
+Part true
+Gear Index 9734
+Data:
+....*
+.560.
+.....
+
+Number 594
+Length 3
+Line 71
+Col 10
+Part true
+Gear Index 10019
+Data:
+.....
+.594.
+*....
+
+Number 409
+Length 3
+Line 71
+Col 52
+Part true
+Gear Index 9782
+Data:
+...*.
+.409.
+.....
+
+Number 319
+Length 3
+Line 71
+Col 57
+Part true
+Gear Index 10067
+Data:
+.....
+.319.
+.*...
+
+Number 738
+Length 3
+Line 71
+Col 68
+Part false
+Gear Index -1
+Data:
+.....
+.738.
+.....
+
+Number 422
+Length 3
+Line 71
+Col 135
+Part true
+Gear Index 9864
+Data:
+..*..
+.422.
+.....
+
+Number 996
+Length 3
+Line 72
+Col 31
+Part true
+Gear Index 10184
+Data:
+.....
+.996.
+...*.
+
+Number 496
+Length 3
+Line 72
+Col 39
+Part true
+Gear Index 9908
+Data:
+.*...
+.496.
+.....
+
+Number 596
+Length 3
+Line 72
+Col 46
+Part true
+Gear Index 10197
+Data:
+.....
+.596.
+.*...
+
+Number 502
+Length 3
+Line 72
+Col 62
+Part true
+Gear Index -1
+Data:
+..#..
+.502.
+.....
+
+Number 947
+Length 3
+Line 72
+Col 82
+Part true
+Gear Index 10091
+Data:
+.....
+*947.
+.....
+
+Number 362
+Length 3
+Line 72
+Col 87
+Part true
+Gear Index -1
+Data:
+.....
+.362.
+...=.
+
+Number 804
+Length 3
+Line 72
+Col 98
+Part false
+Gear Index -1
+Data:
+.....
+.804.
+.....
+
+Number 18
+Length 2
+Line 72
+Col 108
+Part false
+Gear Index -1
+Data:
+....
+.18.
+....
+
+Number 476
+Length 3
+Line 73
+Col 9
+Part true
+Gear Index 10019
+Data:
+.*...
+.476.
+.....
+
+Number 417
+Length 3
+Line 73
+Col 14
+Part true
+Gear Index 10305
+Data:
+.....
+.417.
+*....
+
+Number 740
+Length 3
+Line 73
+Col 26
+Part true
+Gear Index -1
+Data:
+$....
+.740.
+.....
+
+Number 725
+Length 3
+Line 73
+Col 35
+Part true
+Gear Index 10329
+Data:
+.....
+.725.
+...*.
+
+Number 479
+Length 3
+Line 73
+Col 52
+Part true
+Gear Index -1
+Data:
+.....
+.479+
+.....
+
+Number 645
+Length 3
+Line 73
+Col 57
+Part true
+Gear Index 10067
+Data:
+.*...
+.645.
+.....
+
+Number 602
+Length 3
+Line 73
+Col 68
+Part true
+Gear Index 10359
+Data:
+.....
+.602.
+*....
+
+Number 847
+Length 3
+Line 73
+Col 78
+Part true
+Gear Index 10091
+Data:
+....*
+.847.
+.....
+
+Number 976
+Length 3
+Line 73
+Col 91
+Part true
+Gear Index -1
+Data:
+..+..
+.976.
+.....
+
+Number 147
+Length 3
+Line 73
+Col 123
+Part true
+Gear Index 10417
+Data:
+.....
+.147.
+...*.
+
+Number 192
+Length 3
+Line 73
+Col 137
+Part false
+Gear Index -1
+Data:
+.....
+.192.
+.....
+
+Number 912
+Length 3
+Line 74
+Col 3
+Part true
+Gear Index -1
+Data:
+...=.
+.912.
+.....
+
+Number 768
+Length 3
+Line 74
+Col 20
+Part true
+Gear Index -1
+Data:
+.....
+.768.
+...=.
+
+Number 375
+Length 3
+Line 74
+Col 30
+Part true
+Gear Index 10184
+Data:
+....*
+.375.
+.....
+
+Number 613
+Length 3
+Line 74
+Col 46
+Part true
+Gear Index 10197
+Data:
+.*...
+.613.
+.....
+
+Number 788
+Length 3
+Line 74
+Col 99
+Part true
+Gear Index -1
+Data:
+.....
+.788.
+...@.
+
+Number 296
+Length 3
+Line 74
+Col 111
+Part true
+Gear Index 10265
+Data:
+....*
+.296.
+.....
+
+Number 315
+Length 3
+Line 74
+Col 115
+Part true
+Gear Index 10265
+Data:
+*....
+.315.
+.....
+
+Number 28
+Length 2
+Line 75
+Col 13
+Part true
+Gear Index 10305
+Data:
+.*..
+.28.
+....
+
+Number 648
+Length 3
+Line 75
+Col 37
+Part true
+Gear Index 10329
+Data:
+.*...
+.648.
+.....
+
+Number 501
+Length 3
+Line 75
+Col 50
+Part true
+Gear Index -1
+Data:
+.....
+.501#
+.....
+
+Number 832
+Length 3
+Line 75
+Col 55
+Part true
+Gear Index 10629
+Data:
+.....
+.832.
+.*...
+
+Number 106
+Length 3
+Line 75
+Col 64
+Part true
+Gear Index 10359
+Data:
+....*
+.106.
+.....
+
+Number 101
+Length 3
+Line 75
+Col 70
+Part true
+Gear Index -1
+Data:
+.....
+-101.
+.....
+
+Number 907
+Length 3
+Line 75
+Col 80
+Part true
+Gear Index 10655
+Data:
+.....
+.907.
+..*..
+
+Number 278
+Length 3
+Line 75
+Col 106
+Part true
+Gear Index -1
+Data:
+.#...
+.278.
+.....
+
+Number 814
+Length 3
+Line 75
+Col 126
+Part true
+Gear Index 10417
+Data:
+*....
+.814.
+.....
+
+Number 722
+Length 3
+Line 75
+Col 131
+Part true
+Gear Index 10708
+Data:
+.....
+.722.
+....*
+
+Number 526
+Length 3
+Line 75
+Col 137
+Part false
+Gear Index -1
+Data:
+.....
+.526.
+.....
+
+Number 721
+Length 3
+Line 76
+Col 42
+Part true
+Gear Index -1
+Data:
+..&..
+.721.
+.....
+
+Number 314
+Length 3
+Line 76
+Col 46
+Part true
+Gear Index 10764
+Data:
+.....
+.314.
+....*
+
+Number 960
+Length 3
+Line 76
+Col 75
+Part true
+Gear Index -1
+Data:
+/....
+.960.
+.....
+
+Number 218
+Length 3
+Line 76
+Col 89
+Part true
+Gear Index -1
+Data:
+.....
+.218.
+..@..
+
+Number 229
+Length 3
+Line 76
+Col 120
+Part true
+Gear Index -1
+Data:
+...@.
+.229.
+.....
+
+Number 1
+Length 1
+Line 77
+Col 9
+Part true
+Gear Index 10866
+Data:
+...
+.1.
+..*
+
+Number 849
+Length 3
+Line 77
+Col 20
+Part true
+Gear Index 10878
+Data:
+.....
+.849.
+...*.
+
+Number 947
+Length 3
+Line 77
+Col 31
+Part true
+Gear Index -1
+Data:
+.....
+.947.
+%....
+
+Number 880
+Length 3
+Line 77
+Col 35
+Part false
+Gear Index -1
+Data:
+.....
+.880.
+.....
+
+Number 591
+Length 3
+Line 77
+Col 56
+Part true
+Gear Index 10629
+Data:
+*....
+.591.
+.....
+
+Number 483
+Length 3
+Line 77
+Col 67
+Part false
+Gear Index -1
+Data:
+.....
+.483.
+.....
+
+Number 544
+Length 3
+Line 77
+Col 80
+Part true
+Gear Index 10655
+Data:
+..*..
+.544.
+.....
+
+Number 656
+Length 3
+Line 77
+Col 101
+Part true
+Gear Index -1
+Data:
+....%
+.656.
+.....
+
+Number 100
+Length 3
+Line 77
+Col 126
+Part true
+Gear Index -1
+Data:
+.....
+.100.
+..=..
+
+Number 716
+Length 3
+Line 77
+Col 135
+Part true
+Gear Index 10708
+Data:
+*....
+.716.
+.....
+
+Number 74
+Length 2
+Line 78
+Col 27
+Part true
+Gear Index 11024
+Data:
+....
+.74.
+.*..
+
+Number 773
+Length 3
+Line 78
+Col 41
+Part false
+Gear Index -1
+Data:
+.....
+.773.
+.....
+
+Number 813
+Length 3
+Line 78
+Col 46
+Part true
+Gear Index 10764
+Data:
+....*
+.813.
+.....
+
+Number 607
+Length 3
+Line 78
+Col 60
+Part false
+Gear Index -1
+Data:
+.....
+.607.
+.....
+
+Number 775
+Length 3
+Line 78
+Col 95
+Part false
+Gear Index -1
+Data:
+.....
+.775.
+.....
+
+Number 294
+Length 3
+Line 78
+Col 114
+Part true
+Gear Index 11111
+Data:
+.....
+.294.
+.*...
+
+Number 876
+Length 3
+Line 78
+Col 130
+Part true
+Gear Index -1
+Data:
+.....
+.876.
+@....
+
+Number 491
+Length 3
+Line 79
+Col 8
+Part true
+Gear Index 10866
+Data:
+...*.
+.491.
+.....
+
+Number 69
+Length 2
+Line 79
+Col 12
+Part true
+Gear Index 10869
+Data:
+..*.
+.69.
+....
+
+Number 344
+Length 3
+Line 79
+Col 22
+Part true
+Gear Index 10878
+Data:
+.*...
+.344.
+.....
+
+Number 897
+Length 3
+Line 79
+Col 70
+Part false
+Gear Index -1
+Data:
+.....
+.897.
+.....
+
+Number 429
+Length 3
+Line 79
+Col 83
+Part true
+Gear Index 10942
+Data:
+....*
+.429.
+.....
+
+Number 762
+Length 3
+Line 79
+Col 87
+Part true
+Gear Index 10942
+Data:
+*....
+.762.
+.....
+
+Number 915
+Length 3
+Line 79
+Col 101
+Part true
+Gear Index 11240
+Data:
+.....
+.915.
+..*..
+
+Number 169
+Length 3
+Line 79
+Col 106
+Part true
+Gear Index -1
+Data:
+.....
+.169.
+...#.
+
+Number 732
+Length 3
+Line 79
+Col 118
+Part true
+Gear Index 10977
+Data:
+....*
+.732.
+.....
+
+Number 927
+Length 3
+Line 79
+Col 122
+Part true
+Gear Index 10977
+Data:
+*....
+.927.
+.....
+
+Number 493
+Length 3
+Line 80
+Col 3
+Part true
+Gear Index 11284
+Data:
+.....
+.493.
+...*.
+
+Number 545
+Length 3
+Line 80
+Col 16
+Part true
+Gear Index -1
+Data:
+.-...
+.545.
+.....
+
+Number 128
+Length 3
+Line 80
+Col 26
+Part true
+Gear Index 11024
+Data:
+..*..
+.128.
+.....
+
+Number 427
+Length 3
+Line 80
+Col 43
+Part true
+Gear Index 11184
+Data:
+.....
+.427*
+.....
+
+Number 343
+Length 3
+Line 80
+Col 52
+Part true
+Gear Index -1
+Data:
+.....
++343.
+.....
+
+Number 146
+Length 3
+Line 80
+Col 61
+Part true
+Gear Index 11342
+Data:
+.....
+.146.
+...*.
+
+Number 281
+Length 3
+Line 80
+Col 113
+Part true
+Gear Index 11111
+Data:
+..*..
+.281.
+.....
+
+Number 477
+Length 3
+Line 81
+Col 33
+Part true
+Gear Index 11174
+Data:
+....*
+.477.
+.....
+
+Number 508
+Length 3
+Line 81
+Col 37
+Part true
+Gear Index 11174
+Data:
+*....
+.508.
+.....
+
+Number 443
+Length 3
+Line 81
+Col 47
+Part true
+Gear Index 11184
+Data:
+*....
+.443.
+.....
+
+Number 878
+Length 3
+Line 81
+Col 65
+Part true
+Gear Index 11347
+Data:
+.....
+.878*
+.....
+
+Number 393
+Length 3
+Line 81
+Col 69
+Part true
+Gear Index 11347
+Data:
+.....
+*393.
+.....
+
+Number 689
+Length 3
+Line 81
+Col 75
+Part true
+Gear Index 11498
+Data:
+.....
+.689.
+....*
+
+Number 282
+Length 3
+Line 81
+Col 92
+Part true
+Gear Index -1
+Data:
+.....
+.282&
+.....
+
+Number 810
+Length 3
+Line 81
+Col 99
+Part true
+Gear Index 11240
+Data:
+....*
+.810.
+.....
+
+Number 588
+Length 3
+Line 81
+Col 127
+Part true
+Gear Index 11547
+Data:
+.....
+.588.
+.*...
+
+Number 41
+Length 2
+Line 82
+Col 5
+Part true
+Gear Index 11284
+Data:
+.*..
+.41.
+....
+
+Number 278
+Length 3
+Line 82
+Col 9
+Part true
+Gear Index -1
+Data:
+.....
+.278@
+.....
+
+Number 69
+Length 2
+Line 82
+Col 18
+Part true
+Gear Index -1
+Data:
+...+
+.69.
+....
+
+Number 706
+Length 3
+Line 82
+Col 22
+Part true
+Gear Index -1
+Data:
+.-...
+.706.
+.....
+
+Number 389
+Length 3
+Line 82
+Col 28
+Part true
+Gear Index -1
+Data:
+...%.
+.389.
+.....
+
+Number 804
+Length 3
+Line 82
+Col 58
+Part true
+Gear Index 11622
+Data:
+.....
+.804.
+....*
+
+Number 249
+Length 3
+Line 82
+Col 82
+Part true
+Gear Index -1
+Data:
+#....
+.249.
+.....
+
+Number 889
+Length 3
+Line 82
+Col 104
+Part true
+Gear Index 11523
+Data:
+.....
+*889.
+.....
+
+Number 959
+Length 3
+Line 82
+Col 132
+Part true
+Gear Index 11414
+Data:
+....*
+.959.
+.....
+
+Number 462
+Length 3
+Line 82
+Col 136
+Part true
+Gear Index 11414
+Data:
+*....
+.462.
+.....
+
+Number 495
+Length 3
+Line 83
+Col 14
+Part true
+Gear Index 11719
+Data:
+.....
+.495.
+....*
+
+Number 994
+Length 3
+Line 83
+Col 51
+Part false
+Gear Index -1
+Data:
+.....
+.994.
+.....
+
+Number 71
+Length 2
+Line 83
+Col 62
+Part true
+Gear Index 11622
+Data:
+....
+*71.
+....
+
+Number 102
+Length 3
+Line 83
+Col 66
+Part true
+Gear Index 11768
+Data:
+.....
+.102.
+.*...
+
+Number 286
+Length 3
+Line 83
+Col 78
+Part true
+Gear Index 11498
+Data:
+.*...
+.286.
+.....
+
+Number 74
+Length 2
+Line 83
+Col 101
+Part true
+Gear Index 11523
+Data:
+...*
+.74.
+....
+
+Number 302
+Length 3
+Line 83
+Col 108
+Part true
+Gear Index 11810
+Data:
+.....
+.302.
+.*...
+
+Number 457
+Length 3
+Line 83
+Col 112
+Part true
+Gear Index 11816
+Data:
+.....
+.457.
+...*.
+
+Number 633
+Length 3
+Line 83
+Col 120
+Part true
+Gear Index 11680
+Data:
+.....
+*633.
+.....
+
+Number 118
+Length 3
+Line 83
+Col 125
+Part true
+Gear Index 11547
+Data:
+...*.
+.118.
+.....
+
+Number 386
+Length 3
+Line 84
+Col 18
+Part true
+Gear Index 11719
+Data:
+.....
+*386.
+.....
+
+Number 388
+Length 3
+Line 84
+Col 24
+Part true
+Gear Index 11869
+Data:
+.....
+.388.
+...*.
+
+Number 217
+Length 3
+Line 84
+Col 36
+Part true
+Gear Index 11879
+Data:
+.....
+.217.
+.*...
+
+Number 368
+Length 3
+Line 84
+Col 40
+Part true
+Gear Index 11883
+Data:
+.....
+.368.
+.*...
+
+Number 997
+Length 3
+Line 84
+Col 74
+Part false
+Gear Index -1
+Data:
+.....
+.997.
+.....
+
+Number 555
+Length 3
+Line 84
+Col 85
+Part true
+Gear Index -1
+Data:
+.....
+.555.
+..-..
+
+Number 350
+Length 3
+Line 84
+Col 93
+Part true
+Gear Index -1
+Data:
+@....
+.350.
+.....
+
+Number 389
+Length 3
+Line 84
+Col 116
+Part true
+Gear Index 11680
+Data:
+....*
+.389.
+.....
+
+Number 192
+Length 3
+Line 85
+Col 5
+Part true
+Gear Index 11989
+Data:
+.....
+.192.
+.*...
+
+Number 850
+Length 3
+Line 85
+Col 30
+Part true
+Gear Index -1
+Data:
+.....
+.850.
+.$...
+
+Number 991
+Length 3
+Line 85
+Col 44
+Part true
+Gear Index -1
+Data:
+....-
+.991.
+.....
+
+Number 345
+Length 3
+Line 85
+Col 66
+Part true
+Gear Index 11768
+Data:
+.*...
+.345.
+.....
+
+Number 568
+Length 3
+Line 85
+Col 80
+Part true
+Gear Index -1
+Data:
+.....
+&568.
+.....
+
+Number 884
+Length 3
+Line 85
+Col 89
+Part true
+Gear Index -1
+Data:
+.$...
+.884.
+.....
+
+Number 528
+Length 3
+Line 85
+Col 100
+Part true
+Gear Index 12087
+Data:
+.....
+.528.
+....*
+
+Number 364
+Length 3
+Line 85
+Col 106
+Part true
+Gear Index 11810
+Data:
+...*.
+.364.
+.....
+
+Number 284
+Length 3
+Line 85
+Col 111
+Part true
+Gear Index 11816
+Data:
+....*
+.284.
+.....
+
+Number 393
+Length 3
+Line 85
+Col 124
+Part true
+Gear Index 12107
+Data:
+.....
+.393.
+*....
+
+Number 238
+Length 3
+Line 85
+Col 134
+Part true
+Gear Index -1
+Data:
+..#..
+.238.
+.....
+
+Number 63
+Length 2
+Line 86
+Col 12
+Part true
+Gear Index 12136
+Data:
+....
+.63.
+*...
+
+Number 559
+Length 3
+Line 86
+Col 20
+Part true
+Gear Index 12147
+Data:
+.....
+.559.
+...*.
+
+Number 9
+Length 1
+Line 86
+Col 26
+Part true
+Gear Index 11869
+Data:
+.*.
+.9.
+...
+
+Number 897
+Length 3
+Line 86
+Col 34
+Part true
+Gear Index 11879
+Data:
+...*.
+.897.
+.....
+
+Number 788
+Length 3
+Line 86
+Col 40
+Part true
+Gear Index 11883
+Data:
+.*...
+.788.
+.....
+
+Number 297
+Length 3
+Line 86
+Col 48
+Part true
+Gear Index 12172
+Data:
+.....
+.297.
+*....
+
+Number 687
+Length 3
+Line 86
+Col 58
+Part true
+Gear Index -1
+Data:
+...+.
+.687.
+.....
+
+Number 650
+Length 3
+Line 86
+Col 72
+Part true
+Gear Index 12059
+Data:
+.....
+.650*
+.....
+
+Number 988
+Length 3
+Line 86
+Col 118
+Part true
+Gear Index 12242
+Data:
+.....
+.988.
+*....
+
+Number 213
+Length 3
+Line 87
+Col 6
+Part true
+Gear Index 11989
+Data:
+*....
+.213.
+.....
+
+Number 881
+Length 3
+Line 87
+Col 76
+Part true
+Gear Index 12059
+Data:
+*....
+.881.
+.....
+
+Number 165
+Length 3
+Line 87
+Col 83
+Part true
+Gear Index 12349
+Data:
+.....
+.165.
+.*...
+
+Number 457
+Length 3
+Line 87
+Col 91
+Part false
+Gear Index -1
+Data:
+.....
+.457.
+.....
+
+Number 339
+Length 3
+Line 87
+Col 95
+Part true
+Gear Index 12363
+Data:
+.....
+.339.
+...*.
+
+Number 388
+Length 3
+Line 87
+Col 100
+Part true
+Gear Index 12087
+Data:
+....*
+.388.
+.....
+
+Number 950
+Length 3
+Line 87
+Col 112
+Part true
+Gear Index -1
+Data:
+.....
+#950.
+.....
+
+Number 60
+Length 2
+Line 87
+Col 124
+Part true
+Gear Index 12107
+Data:
+*...
+.60.
+....
+
+Number 440
+Length 3
+Line 87
+Col 131
+Part false
+Gear Index -1
+Data:
+.....
+.440.
+.....
+
+Number 700
+Length 3
+Line 88
+Col 12
+Part true
+Gear Index 12136
+Data:
+*....
+.700.
+.....
+
+Number 103
+Length 3
+Line 88
+Col 17
+Part true
+Gear Index -1
+Data:
+.....
+.103.
+/....
+
+Number 693
+Length 3
+Line 88
+Col 22
+Part true
+Gear Index 12147
+Data:
+.*...
+.693.
+.....
+
+Number 636
+Length 3
+Line 88
+Col 26
+Part true
+Gear Index -1
+Data:
+.....
+.636#
+.....
+
+Number 841
+Length 3
+Line 88
+Col 48
+Part true
+Gear Index 12172
+Data:
+*....
+.841.
+.....
+
+Number 424
+Length 3
+Line 88
+Col 70
+Part true
+Gear Index 12477
+Data:
+.....
+.424.
+.*...
+
+Number 736
+Length 3
+Line 88
+Col 137
+Part true
+Gear Index -1
+Data:
+.....
+@736.
+.....
+
+Number 897
+Length 3
+Line 89
+Col 5
+Part true
+Gear Index -1
+Data:
+.....
+.897.
+.+...
+
+Number 946
+Length 3
+Line 89
+Col 52
+Part true
+Gear Index 12319
+Data:
+..*..
+.946.
+.....
+
+Number 13
+Length 2
+Line 89
+Col 59
+Part true
+Gear Index -1
+Data:
+....
+@13.
+....
+
+Number 70
+Length 2
+Line 89
+Col 66
+Part true
+Gear Index -1
+Data:
+....
+.70.
+...%
+
+Number 135
+Length 3
+Line 89
+Col 80
+Part true
+Gear Index 12349
+Data:
+....*
+.135.
+.....
+
+Number 764
+Length 3
+Line 89
+Col 89
+Part true
+Gear Index -1
+Data:
+.%...
+.764.
+.....
+
+Number 693
+Length 3
+Line 89
+Col 98
+Part true
+Gear Index 12363
+Data:
+*....
+.693.
+.....
+
+Number 210
+Length 3
+Line 89
+Col 103
+Part true
+Gear Index 12650
+Data:
+.....
+.210.
+*....
+
+Number 866
+Length 3
+Line 89
+Col 109
+Part true
+Gear Index 12656
+Data:
+.....
+.866.
+*....
+
+Number 531
+Length 3
+Line 89
+Col 117
+Part true
+Gear Index -1
+Data:
+.....
+.531/
+.....
+
+Number 454
+Length 3
+Line 89
+Col 122
+Part true
+Gear Index 12670
+Data:
+.....
+.454.
+.*...
+
+Number 61
+Length 2
+Line 90
+Col 37
+Part false
+Gear Index -1
+Data:
+....
+.61.
+....
+
+Number 201
+Length 3
+Line 90
+Col 40
+Part true
+Gear Index 12729
+Data:
+.....
+.201.
+.*...
+
+Number 195
+Length 3
+Line 90
+Col 44
+Part false
+Gear Index -1
+Data:
+.....
+.195.
+.....
+
+Number 108
+Length 3
+Line 90
+Col 70
+Part true
+Gear Index 12477
+Data:
+.*...
+.108.
+.....
+
+Number 735
+Length 3
+Line 90
+Col 76
+Part true
+Gear Index -1
+Data:
+..$..
+.735.
+.....
+
+Number 305
+Length 3
+Line 90
+Col 85
+Part false
+Gear Index -1
+Data:
+.....
+.305.
+.....
+
+Number 435
+Length 3
+Line 90
+Col 130
+Part true
+Gear Index -1
+Data:
+...=.
+.435.
+.....
+
+Number 366
+Length 3
+Line 91
+Col 7
+Part true
+Gear Index -1
+Data:
+.....
+.366.
+....@
+
+Number 738
+Length 3
+Line 91
+Col 14
+Part true
+Gear Index 12847
+Data:
+.....
+.738.
+....*
+
+Number 963
+Length 3
+Line 91
+Col 24
+Part true
+Gear Index -1
+Data:
+...%.
+.963.
+.....
+
+Number 421
+Length 3
+Line 91
+Col 31
+Part false
+Gear Index -1
+Data:
+.....
+.421.
+.....
+
+Number 293
+Length 3
+Line 91
+Col 49
+Part true
+Gear Index 12880
+Data:
+.....
+.293.
+..*..
+
+Number 924
+Length 3
+Line 91
+Col 99
+Part true
+Gear Index 12650
+Data:
+....*
+.924.
+.....
+
+Number 724
+Length 3
+Line 91
+Col 107
+Part true
+Gear Index 12656
+Data:
+..*..
+.724.
+.....
+
+Number 410
+Length 3
+Line 91
+Col 121
+Part true
+Gear Index 12670
+Data:
+..*..
+.410.
+.....
+
+Number 943
+Length 3
+Line 91
+Col 137
+Part true
+Gear Index -1
+Data:
+$....
+.943.
+.....
+
+Number 865
+Length 3
+Line 92
+Col 37
+Part true
+Gear Index 12729
+Data:
+....*
+.865.
+.....
+
+Number 633
+Length 3
+Line 92
+Col 45
+Part true
+Gear Index 13015
+Data:
+.....
+.633.
+*....
+
+Number 721
+Length 3
+Line 92
+Col 83
+Part true
+Gear Index 13056
+Data:
+.....
+.721.
+...*.
+
+Number 537
+Length 3
+Line 92
+Col 126
+Part true
+Gear Index 13099
+Data:
+.....
+.537.
+...*.
+
+Number 569
+Length 3
+Line 93
+Col 16
+Part true
+Gear Index 12847
+Data:
+..*..
+.569.
+.....
+
+Number 831
+Length 3
+Line 93
+Col 32
+Part true
+Gear Index 13144
+Data:
+.....
+.831.
+.*...
+
+Number 482
+Length 3
+Line 93
+Col 51
+Part true
+Gear Index 12880
+Data:
+*....
+.482.
+.....
+
+Number 609
+Length 3
+Line 93
+Col 57
+Part true
+Gear Index -1
+Data:
+.....
+.609.
+...-.
+
+Number 398
+Length 3
+Line 93
+Col 73
+Part true
+Gear Index 13047
+Data:
+.....
+.398*
+.....
+
+Number 222
+Length 3
+Line 93
+Col 96
+Part true
+Gear Index 13208
+Data:
+.....
+.222.
+.*...
+
+Number 557
+Length 3
+Line 93
+Col 113
+Part false
+Gear Index -1
+Data:
+.....
+.557.
+.....
+
+Number 412
+Length 3
+Line 93
+Col 135
+Part true
+Gear Index -1
+Data:
+.....
+.412.
+-....
+
+Number 684
+Length 3
+Line 94
+Col 7
+Part true
+Gear Index -1
+Data:
+&....
+.684.
+.....
+
+Number 111
+Length 3
+Line 94
+Col 21
+Part false
+Gear Index -1
+Data:
+.....
+.111.
+.....
+
+Number 35
+Length 2
+Line 94
+Col 38
+Part true
+Gear Index 13290
+Data:
+....
+.35.
+*...
+
+Number 689
+Length 3
+Line 94
+Col 45
+Part true
+Gear Index 13015
+Data:
+*....
+.689.
+.....
+
+Number 415
+Length 3
+Line 94
+Col 77
+Part true
+Gear Index 13047
+Data:
+*....
+.415.
+.....
+
+Number 161
+Length 3
+Line 94
+Col 82
+Part true
+Gear Index 13056
+Data:
+....*
+.161.
+.....
+
+Number 109
+Length 3
+Line 94
+Col 88
+Part true
+Gear Index -1
+Data:
+.....
+=109.
+.....
+
+Number 942
+Length 3
+Line 94
+Col 119
+Part true
+Gear Index 13374
+Data:
+.....
+.942.
+...*.
+
+Number 921
+Length 3
+Line 94
+Col 127
+Part true
+Gear Index 13099
+Data:
+..*..
+.921.
+.....
+
+Number 73
+Length 2
+Line 95
+Col 29
+Part true
+Gear Index -1
+Data:
+@...
+.73.
+....
+
+Number 616
+Length 3
+Line 95
+Col 33
+Part true
+Gear Index 13144
+Data:
+*....
+.616.
+.....
+
+Number 861
+Length 3
+Line 95
+Col 63
+Part true
+Gear Index -1
+Data:
+.....
+.861.
+$....
+
+Number 146
+Length 3
+Line 95
+Col 94
+Part true
+Gear Index 13208
+Data:
+...*.
+.146.
+.....
+
+Number 436
+Length 3
+Line 95
+Col 98
+Part true
+Gear Index -1
+Data:
+.....
+.436.
+..+..
+
+Number 219
+Length 3
+Line 95
+Col 102
+Part true
+Gear Index -1
+Data:
+....+
+.219.
+.....
+
+Number 811
+Length 3
+Line 95
+Col 109
+Part false
+Gear Index -1
+Data:
+.....
+.811.
+.....
+
+Number 811
+Length 3
+Line 96
+Col 12
+Part true
+Gear Index -1
+Data:
+%....
+.811.
+.....
+
+Number 682
+Length 3
+Line 96
+Col 18
+Part true
+Gear Index -1
+Data:
+.....
+.682.
+....#
+
+Number 395
+Length 3
+Line 96
+Col 38
+Part true
+Gear Index 13290
+Data:
+*....
+.395.
+.....
+
+Number 266
+Length 3
+Line 96
+Col 46
+Part true
+Gear Index 13581
+Data:
+.....
+.266.
+.*...
+
+Number 97
+Length 2
+Line 96
+Col 50
+Part false
+Gear Index -1
+Data:
+....
+.97.
+....
+
+Number 949
+Length 3
+Line 96
+Col 57
+Part true
+Gear Index -1
+Data:
+.....
+-949.
+.....
+
+Number 567
+Length 3
+Line 96
+Col 68
+Part true
+Gear Index 13604
+Data:
+.....
+.567.
+..*..
+
+Number 476
+Length 3
+Line 96
+Col 74
+Part true
+Gear Index 13611
+Data:
+.....
+.476.
+...*.
+
+Number 721
+Length 3
+Line 96
+Col 84
+Part true
+Gear Index 13620
+Data:
+.....
+.721.
+..*..
+
+Number 816
+Length 3
+Line 96
+Col 117
+Part true
+Gear Index 13655
+Data:
+.....
+.816.
+....*
+
+Number 866
+Length 3
+Line 96
+Col 122
+Part true
+Gear Index 13374
+Data:
+*....
+.866.
+.....
+
+Number 268
+Length 3
+Line 96
+Col 126
+Part true
+Gear Index 13662
+Data:
+.....
+.268.
+..*..
+
+Number 534
+Length 3
+Line 96
+Col 130
+Part true
+Gear Index -1
+Data:
+.....
+.534.
+...%.
+
+Number 492
+Length 3
+Line 97
+Col 64
+Part true
+Gear Index 13743
+Data:
+.....
+.492.
+....*
+
+Number 944
+Length 3
+Line 97
+Col 79
+Part true
+Gear Index 13757
+Data:
+.....
+.944.
+...*.
+
+Number 878
+Length 3
+Line 98
+Col 3
+Part true
+Gear Index 13821
+Data:
+.....
+.878.
+..*..
+
+Number 447
+Length 3
+Line 98
+Col 8
+Part true
+Gear Index 13687
+Data:
+.....
+.447*
+.....
+
+Number 197
+Length 3
+Line 98
+Col 12
+Part true
+Gear Index 13687
+Data:
+.....
+*197.
+.....
+
+Number 414
+Length 3
+Line 98
+Col 17
+Part true
+Gear Index -1
+Data:
+.....
+.414.
+...%.
+
+Number 491
+Length 3
+Line 98
+Col 35
+Part true
+Gear Index 13851
+Data:
+.....
+.491.
+*....
+
+Number 905
+Length 3
+Line 98
+Col 41
+Part true
+Gear Index 13860
+Data:
+.....
+.905.
+...*.
+
+Number 610
+Length 3
+Line 98
+Col 45
+Part true
+Gear Index 13581
+Data:
+..*..
+.610.
+.....
+
+Number 260
+Length 3
+Line 98
+Col 56
+Part true
+Gear Index 13873
+Data:
+.....
+.260.
+.*...
+
+Number 790
+Length 3
+Line 98
+Col 75
+Part true
+Gear Index 13611
+Data:
+..*..
+.790.
+.....
+
+Number 494
+Length 3
+Line 98
+Col 85
+Part true
+Gear Index 13620
+Data:
+.*...
+.494.
+.....
+
+Number 226
+Length 3
+Line 98
+Col 93
+Part true
+Gear Index -1
+Data:
+.....
+.226+
+.....
+
+Number 679
+Length 3
+Line 98
+Col 105
+Part true
+Gear Index 13923
+Data:
+.....
+.679.
+..*..
+
+Number 125
+Length 3
+Line 98
+Col 109
+Part true
+Gear Index -1
+Data:
+.....
+.125.
+...#.
+
+Number 394
+Length 3
+Line 98
+Col 118
+Part true
+Gear Index 13655
+Data:
+...*.
+.394.
+.....
+
+Number 721
+Length 3
+Line 98
+Col 126
+Part true
+Gear Index 13662
+Data:
+..*..
+.721.
+.....
+
+Number 592
+Length 3
+Line 99
+Col 23
+Part true
+Gear Index -1
+Data:
+.....
+.592.
+...@.
+
+Number 148
+Length 3
+Line 99
+Col 50
+Part true
+Gear Index -1
+Data:
+...=.
+.148.
+.....
+
+Number 162
+Length 3
+Line 99
+Col 65
+Part true
+Gear Index 13743
+Data:
+...*.
+.162.
+.....
+
+Number 749
+Length 3
+Line 99
+Col 69
+Part true
+Gear Index -1
+Data:
+.....
+.749.
+...=.
+
+Number 67
+Length 2
+Line 99
+Col 82
+Part true
+Gear Index 13757
+Data:
+*...
+.67.
+....
+
+Number 637
+Length 3
+Line 99
+Col 114
+Part true
+Gear Index -1
+Data:
+.&...
+.637.
+.....
+
+Number 391
+Length 3
+Line 100
+Col 1
+Part true
+Gear Index 13821
+Data:
+...*
+391.
+....
+
+Number 584
+Length 3
+Line 100
+Col 27
+Part false
+Gear Index -1
+Data:
+.....
+.584.
+.....
+
+Number 942
+Length 3
+Line 100
+Col 33
+Part true
+Gear Index 13851
+Data:
+..*..
+.942.
+.....
+
+Number 912
+Length 3
+Line 100
+Col 42
+Part true
+Gear Index 13860
+Data:
+..*..
+.912.
+.....
+
+Number 465
+Length 3
+Line 100
+Col 46
+Part true
+Gear Index -1
+Data:
+.....
+.465.
+....&
+
+Number 324
+Length 3
+Line 100
+Col 55
+Part true
+Gear Index 13873
+Data:
+..*..
+.324.
+.....
+
+Number 546
+Length 3
+Line 100
+Col 60
+Part true
+Gear Index 14158
+Data:
+.....
+.546.
+*....
+
+Number 109
+Length 3
+Line 100
+Col 78
+Part true
+Gear Index 14176
+Data:
+.....
+.109.
+*....
+
+Number 831
+Length 3
+Line 100
+Col 85
+Part true
+Gear Index -1
+Data:
+.....
+.831.
+...&.
+
+Number 897
+Length 3
+Line 100
+Col 98
+Part true
+Gear Index -1
+Data:
+.....
+.897#
+.....
+
+Number 469
+Length 3
+Line 100
+Col 103
+Part true
+Gear Index 13923
+Data:
+....*
+.469.
+.....
+
+Number 100
+Length 3
+Line 100
+Col 122
+Part true
+Gear Index 14221
+Data:
+.....
+.100.
+.*...
+
+Number 338
+Length 3
+Line 100
+Col 128
+Part true
+Gear Index 14230
+Data:
+.....
+.338.
+....*
+
+Number 191
+Length 3
+Line 101
+Col 5
+Part true
+Gear Index -1
+Data:
+...@.
+.191.
+.....
+
+Number 669
+Length 3
+Line 101
+Col 10
+Part true
+Gear Index -1
+Data:
+.....
+.669.
+...-.
+
+Number 264
+Length 3
+Line 101
+Col 18
+Part false
+Gear Index -1
+Data:
+.....
+.264.
+.....
+
+Number 700
+Length 3
+Line 101
+Col 66
+Part true
+Gear Index 14305
+Data:
+.....
+.700.
+*....
+
+Number 219
+Length 3
+Line 101
+Col 74
+Part true
+Gear Index 14176
+Data:
+.....
+.219*
+.....
+
+Number 762
+Length 3
+Line 101
+Col 107
+Part true
+Gear Index 14347
+Data:
+.....
+.762.
+.*...
+
+Number 501
+Length 3
+Line 101
+Col 114
+Part true
+Gear Index 14354
+Data:
+.....
+.501.
+.*...
+
+Number 274
+Length 3
+Line 101
+Col 133
+Part true
+Gear Index 14376
+Data:
+.....
+.274.
+....*
+
+Number 985
+Length 3
+Line 102
+Col 32
+Part false
+Gear Index -1
+Data:
+.....
+.985.
+.....
+
+Number 369
+Length 3
+Line 102
+Col 45
+Part true
+Gear Index 14426
+Data:
+.....
+.369.
+.*...
+
+Number 639
+Length 3
+Line 102
+Col 53
+Part true
+Gear Index -1
+Data:
+.....
+.639.
+$....
+
+Number 204
+Length 3
+Line 102
+Col 58
+Part true
+Gear Index 14158
+Data:
+..*..
+.204.
+.....
+
+Number 972
+Length 3
+Line 102
+Col 83
+Part true
+Gear Index -1
+Data:
+.#...
+.972.
+.....
+
+Number 381
+Length 3
+Line 102
+Col 120
+Part true
+Gear Index 14221
+Data:
+...*.
+.381.
+.....
+
+Number 463
+Length 3
+Line 102
+Col 125
+Part true
+Gear Index -1
+Data:
+.....
+#463.
+.....
+
+Number 96
+Length 2
+Line 102
+Col 129
+Part true
+Gear Index 14230
+Data:
+...*
+.96.
+....
+
+Number 7
+Length 1
+Line 103
+Col 41
+Part true
+Gear Index -1
+Data:
+#..
+.7.
+...
+
+Number 806
+Length 3
+Line 103
+Col 62
+Part true
+Gear Index 14305
+Data:
+....*
+.806.
+.....
+
+Number 104
+Length 3
+Line 103
+Col 69
+Part true
+Gear Index 14590
+Data:
+.....
+.104.
+*....
+
+Number 350
+Length 3
+Line 103
+Col 75
+Part true
+Gear Index -1
+Data:
+.....
+.350.
+$....
+
+Number 970
+Length 3
+Line 103
+Col 89
+Part true
+Gear Index -1
+Data:
+..+..
+.970.
+.....
+
+Number 197
+Length 3
+Line 103
+Col 104
+Part true
+Gear Index 14347
+Data:
+....*
+.197.
+.....
+
+Number 801
+Length 3
+Line 103
+Col 113
+Part true
+Gear Index 14354
+Data:
+..*..
+.801.
+.....
+
+Number 931
+Length 3
+Line 103
+Col 135
+Part true
+Gear Index 14376
+Data:
+..*..
+.931.
+.....
+
+Number 194
+Length 3
+Line 104
+Col 2
+Part true
+Gear Index 14386
+Data:
+....*
+.194.
+.....
+
+Number 166
+Length 3
+Line 104
+Col 6
+Part true
+Gear Index 14386
+Data:
+*....
+.166.
+.....
+
+Number 117
+Length 3
+Line 104
+Col 12
+Part false
+Gear Index -1
+Data:
+.....
+.117.
+.....
+
+Number 846
+Length 3
+Line 104
+Col 19
+Part true
+Gear Index 14403
+Data:
+....*
+.846.
+.....
+
+Number 803
+Length 3
+Line 104
+Col 23
+Part true
+Gear Index 14403
+Data:
+*....
+.803.
+.....
+
+Number 487
+Length 3
+Line 104
+Col 36
+Part true
+Gear Index 14419
+Data:
+...*.
+.487.
+.....
+
+Number 913
+Length 3
+Line 104
+Col 44
+Part true
+Gear Index 14426
+Data:
+..*..
+.913.
+.....
+
+Number 852
+Length 3
+Line 104
+Col 85
+Part false
+Gear Index -1
+Data:
+.....
+.852.
+.....
+
+Number 913
+Length 3
+Line 104
+Col 108
+Part true
+Gear Index 14770
+Data:
+.....
+.913.
+*....
+
+Number 156
+Length 3
+Line 104
+Col 119
+Part true
+Gear Index 14781
+Data:
+.....
+.156.
+*....
+
+Number 491
+Length 3
+Line 104
+Col 130
+Part false
+Gear Index -1
+Data:
+.....
+.491.
+.....
+
+Number 260
+Length 3
+Line 105
+Col 29
+Part true
+Gear Index -1
+Data:
+.....
+.260.
+.$...
+
+Number 946
+Length 3
+Line 105
+Col 48
+Part false
+Gear Index -1
+Data:
+.....
+.946.
+.....
+
+Number 248
+Length 3
+Line 105
+Col 55
+Part true
+Gear Index 14858
+Data:
+.....
+.248.
+*....
+
+Number 752
+Length 3
+Line 105
+Col 61
+Part false
+Gear Index -1
+Data:
+.....
+.752.
+.....
+
+Number 400
+Length 3
+Line 105
+Col 66
+Part true
+Gear Index 14590
+Data:
+...*.
+.400.
+.....
+
+Number 810
+Length 3
+Line 105
+Col 97
+Part true
+Gear Index -1
+Data:
+.....
+=810.
+.....
+
+Number 15
+Length 2
+Line 105
+Col 105
+Part true
+Gear Index 14770
+Data:
+....
+.15*
+....
+
+Number 70
+Length 2
+Line 105
+Col 113
+Part true
+Gear Index 14917
+Data:
+....
+.70.
+.*..
+
+Number 910
+Length 3
+Line 105
+Col 126
+Part true
+Gear Index -1
+Data:
+.....
+.910.
+....@
+
+Number 200
+Length 3
+Line 105
+Col 135
+Part true
+Gear Index 14941
+Data:
+.....
+.200.
+...*.
+
+Number 455
+Length 3
+Line 106
+Col 20
+Part true
+Gear Index -1
+Data:
+.....
+.455.
+.@...
+
+Number 833
+Length 3
+Line 106
+Col 40
+Part true
+Gear Index 14843
+Data:
+.....
+*833.
+.....
+
+Number 959
+Length 3
+Line 106
+Col 71
+Part true
+Gear Index -1
+Data:
+.....
+.959.
+..+..
+
+Number 778
+Length 3
+Line 106
+Col 91
+Part true
+Gear Index 15036
+Data:
+.....
+.778.
+.*...
+
+Number 256
+Length 3
+Line 106
+Col 119
+Part true
+Gear Index 14781
+Data:
+*....
+.256.
+.....
+
+Number 306
+Length 3
+Line 107
+Col 5
+Part true
+Gear Index -1
+Data:
+-....
+.306.
+.....
+
+Number 41
+Length 2
+Line 107
+Col 24
+Part true
+Gear Index 15109
+Data:
+....
+.41.
+*...
+
+Number 352
+Length 3
+Line 107
+Col 36
+Part true
+Gear Index 14843
+Data:
+....*
+.352.
+.....
+
+Number 490
+Length 3
+Line 107
+Col 45
+Part true
+Gear Index -1
+Data:
+.....
+.490#
+.....
+
+Number 249
+Length 3
+Line 107
+Col 55
+Part true
+Gear Index 14858
+Data:
+*....
+.249.
+.....
+
+Number 683
+Length 3
+Line 107
+Col 62
+Part true
+Gear Index -1
+Data:
+.....
++683.
+.....
+
+Number 140
+Length 3
+Line 107
+Col 75
+Part true
+Gear Index -1
+Data:
+...@.
+.140.
+.....
+
+Number 827
+Length 3
+Line 107
+Col 84
+Part true
+Gear Index -1
+Data:
+.....
+.827+
+.....
+
+Number 241
+Length 3
+Line 107
+Col 99
+Part true
+Gear Index -1
+Data:
+.....
+.241%
+.....
+
+Number 151
+Length 3
+Line 107
+Col 109
+Part true
+Gear Index -1
+Data:
+.....
+.151.
+./...
+
+Number 916
+Length 3
+Line 107
+Col 114
+Part true
+Gear Index 14917
+Data:
+*....
+.916.
+.....
+
+Number 218
+Length 3
+Line 107
+Col 134
+Part true
+Gear Index 14941
+Data:
+....*
+.218.
+.....
+
+Number 608
+Length 3
+Line 108
+Col 9
+Part false
+Gear Index -1
+Data:
+.....
+.608.
+.....
+
+Number 533
+Length 3
+Line 108
+Col 27
+Part true
+Gear Index 15257
+Data:
+.....
+.533.
+....*
+
+Number 382
+Length 3
+Line 108
+Col 32
+Part true
+Gear Index 15262
+Data:
+.....
+.382.
+....*
+
+Number 108
+Length 3
+Line 108
+Col 40
+Part true
+Gear Index 15129
+Data:
+.....
+.108*
+.....
+
+Number 734
+Length 3
+Line 108
+Col 90
+Part true
+Gear Index 15036
+Data:
+..*..
+.734.
+.....
+
+Number 396
+Length 3
+Line 108
+Col 104
+Part true
+Gear Index -1
+Data:
+..-..
+.396.
+.....
+
+Number 802
+Length 3
+Line 108
+Col 118
+Part false
+Gear Index -1
+Data:
+.....
+.802.
+.....
+
+Number 448
+Length 3
+Line 108
+Col 122
+Part true
+Gear Index -1
+Data:
+..@..
+.448.
+.....
+
+Number 613
+Length 3
+Line 108
+Col 127
+Part true
+Gear Index -1
+Data:
+.+...
+.613.
+.....
+
+Number 243
+Length 3
+Line 109
+Col 23
+Part true
+Gear Index 15109
+Data:
+.*...
+.243.
+.....
+
+Number 287
+Length 3
+Line 109
+Col 44
+Part true
+Gear Index 15129
+Data:
+*....
+.287.
+.....
+
+Number 711
+Length 3
+Line 109
+Col 56
+Part false
+Gear Index -1
+Data:
+.....
+.711.
+.....
+
+Number 930
+Length 3
+Line 109
+Col 65
+Part true
+Gear Index -1
+Data:
+.....
+.930.
+#....
+
+Number 177
+Length 3
+Line 109
+Col 80
+Part true
+Gear Index -1
+Data:
+.....
+.177.
+..$..
+
+Number 805
+Length 3
+Line 109
+Col 85
+Part true
+Gear Index 15455
+Data:
+.....
+.805.
+...*.
+
+Number 756
+Length 3
+Line 109
+Col 97
+Part true
+Gear Index 15466
+Data:
+.....
+.756.
+..*..
+
+Number 386
+Length 3
+Line 110
+Col 7
+Part false
+Gear Index -1
+Data:
+.....
+.386.
+.....
+
+Number 252
+Length 3
+Line 110
+Col 31
+Part true
+Gear Index 15257
+Data:
+*....
+.252.
+.....
+
+Number 114
+Length 3
+Line 110
+Col 35
+Part true
+Gear Index 15262
+Data:
+.*...
+.114.
+.....
+
+Number 786
+Length 3
+Line 110
+Col 70
+Part true
+Gear Index 15578
+Data:
+.....
+.786.
+*....
+
+Number 916
+Length 3
+Line 110
+Col 74
+Part true
+Gear Index 15585
+Data:
+.....
+.916.
+...*.
+
+Number 866
+Length 3
+Line 110
+Col 101
+Part true
+Gear Index 15610
+Data:
+.....
+.866.
+.*...
+
+Number 379
+Length 3
+Line 110
+Col 135
+Part true
+Gear Index -1
+Data:
+#....
+.379.
+.....
+
+Number 655
+Length 3
+Line 111
+Col 15
+Part true
+Gear Index 15666
+Data:
+.....
+.655.
+..*..
+
+Number 735
+Length 3
+Line 111
+Col 25
+Part true
+Gear Index 15676
+Data:
+.....
+.735.
+..*..
+
+Number 626
+Length 3
+Line 111
+Col 42
+Part true
+Gear Index 15693
+Data:
+.....
+.626.
+..*..
+
+Number 538
+Length 3
+Line 111
+Col 51
+Part true
+Gear Index -1
+Data:
+#....
+.538.
+.....
+
+Number 25
+Length 2
+Line 111
+Col 56
+Part true
+Gear Index 15708
+Data:
+....
+.25.
+...*
+
+Number 131
+Length 3
+Line 111
+Col 59
+Part true
+Gear Index 15708
+Data:
+.....
+.131.
+*....
+
+Number 744
+Length 3
+Line 111
+Col 85
+Part true
+Gear Index 15455
+Data:
+...*.
+.744.
+.....
+
+Number 535
+Length 3
+Line 111
+Col 89
+Part true
+Gear Index 15460
+Data:
+....*
+.535.
+.....
+
+Number 612
+Length 3
+Line 111
+Col 93
+Part true
+Gear Index 15460
+Data:
+*....
+.612.
+.....
+
+Number 977
+Length 3
+Line 111
+Col 97
+Part true
+Gear Index 15466
+Data:
+..*..
+.977.
+.....
+
+Number 208
+Length 3
+Line 111
+Col 106
+Part true
+Gear Index 15758
+Data:
+.....
+.208.
+...*.
+
+Number 314
+Length 3
+Line 111
+Col 115
+Part true
+Gear Index -1
+Data:
+....+
+.314.
+.....
+
+Number 467
+Length 3
+Line 111
+Col 126
+Part true
+Gear Index -1
+Data:
+.....
+.467.
+/....
+
+Number 648
+Length 3
+Line 111
+Col 131
+Part true
+Gear Index 15780
+Data:
+.....
+.648.
+*....
+
+Number 50
+Length 2
+Line 112
+Col 2
+Part false
+Gear Index -1
+Data:
+....
+.50.
+....
+
+Number 922
+Length 3
+Line 112
+Col 20
+Part true
+Gear Index 15530
+Data:
+..*..
+.922.
+.....
+
+Number 267
+Length 3
+Line 112
+Col 30
+Part true
+Gear Index 15823
+Data:
+.....
+.267.
+...*.
+
+Number 721
+Length 3
+Line 112
+Col 67
+Part true
+Gear Index 15578
+Data:
+...*.
+.721.
+.....
+
+Number 160
+Length 3
+Line 112
+Col 73
+Part true
+Gear Index 15585
+Data:
+....*
+.160.
+.....
+
+Number 64
+Length 2
+Line 112
+Col 81
+Part true
+Gear Index -1
+Data:
+....
+@64.
+....
+
+Number 3
+Length 1
+Line 112
+Col 102
+Part true
+Gear Index 15610
+Data:
+*..
+.3.
+...
+
+Number 774
+Length 3
+Line 112
+Col 111
+Part true
+Gear Index -1
+Data:
+.+...
+.774.
+.....
+
+Number 189
+Length 3
+Line 113
+Col 14
+Part true
+Gear Index 15666
+Data:
+...*.
+.189.
+.....
+
+Number 56
+Length 2
+Line 113
+Col 26
+Part true
+Gear Index 15676
+Data:
+.*..
+.56.
+....
+
+Number 953
+Length 3
+Line 113
+Col 38
+Part false
+Gear Index -1
+Data:
+.....
+.953.
+.....
+
+Number 108
+Length 3
+Line 113
+Col 42
+Part true
+Gear Index 15693
+Data:
+..*..
+.108.
+.....
+
+Number 242
+Length 3
+Line 113
+Col 47
+Part false
+Gear Index -1
+Data:
+.....
+.242.
+.....
+
+Number 383
+Length 3
+Line 113
+Col 52
+Part true
+Gear Index -1
+Data:
+.....
+.383.
+.-...
+
+Number 237
+Length 3
+Line 113
+Col 62
+Part false
+Gear Index -1
+Data:
+.....
+.237.
+.....
+
+Number 344
+Length 3
+Line 113
+Col 85
+Part true
+Gear Index 15875
+Data:
+.....
+*344.
+.....
+
+Number 608
+Length 3
+Line 113
+Col 92
+Part true
+Gear Index -1
+Data:
+.....
+=608.
+.....
+
+Number 542
+Length 3
+Line 113
+Col 107
+Part true
+Gear Index 15758
+Data:
+..*..
+.542.
+.....
+
+Number 436
+Length 3
+Line 113
+Col 116
+Part true
+Gear Index 15910
+Data:
+.....
+.436*
+.....
+
+Number 941
+Length 3
+Line 113
+Col 128
+Part true
+Gear Index 15780
+Data:
+...*.
+.941.
+.....
+
+Number 479
+Length 3
+Line 114
+Col 5
+Part true
+Gear Index -1
+Data:
+..../
+.479.
+.....
+
+Number 848
+Length 3
+Line 114
+Col 30
+Part true
+Gear Index 15823
+Data:
+...*.
+.848.
+.....
+
+Number 726
+Length 3
+Line 114
+Col 58
+Part true
+Gear Index -1
+Data:
+.....
+.726.
+...-.
+
+Number 473
+Length 3
+Line 114
+Col 69
+Part true
+Gear Index -1
+Data:
+...+.
+.473.
+.....
+
+Number 376
+Length 3
+Line 114
+Col 81
+Part true
+Gear Index 15875
+Data:
+....*
+.376.
+.....
+
+Number 814
+Length 3
+Line 114
+Col 120
+Part true
+Gear Index 15910
+Data:
+*....
+.814.
+.....
+
+Number 85
+Length 2
+Line 114
+Col 133
+Part false
+Gear Index -1
+Data:
+....
+.85.
+....
+
+Number 120
+Length 3
+Line 115
+Col 15
+Part true
+Gear Index 16232
+Data:
+.....
+.120.
+....*
+
+Number 157
+Length 3
+Line 115
+Col 19
+Part true
+Gear Index 16232
+Data:
+.....
+.157.
+*....
+
+Number 94
+Length 2
+Line 115
+Col 27
+Part true
+Gear Index -1
+Data:
+....
+-94.
+....
+
+Number 766
+Length 3
+Line 115
+Col 36
+Part true
+Gear Index 16249
+Data:
+.....
+.766.
+*....
+
+Number 419
+Length 3
+Line 115
+Col 65
+Part false
+Gear Index -1
+Data:
+.....
+.419.
+.....
+
+Number 134
+Length 3
+Line 115
+Col 74
+Part true
+Gear Index -1
+Data:
+.....
+%134.
+.....
+
+Number 739
+Length 3
+Line 115
+Col 91
+Part true
+Gear Index -1
+Data:
+.....
+.739.
+.-...
+
+Number 187
+Length 3
+Line 115
+Col 97
+Part true
+Gear Index 16313
+Data:
+.....
+.187.
+...*.
+
+Number 369
+Length 3
+Line 115
+Col 104
+Part true
+Gear Index 16321
+Data:
+.....
+.369.
+....*
+
+Number 641
+Length 3
+Line 115
+Col 108
+Part true
+Gear Index 16321
+Data:
+.....
+.641.
+*....
+
+Number 735
+Length 3
+Line 116
+Col 41
+Part true
+Gear Index 16397
+Data:
+.....
+.735.
+..*..
+
+Number 274
+Length 3
+Line 116
+Col 49
+Part true
+Gear Index 16404
+Data:
+.....
+.274.
+.*...
+
+Number 52
+Length 2
+Line 116
+Col 70
+Part true
+Gear Index 16426
+Data:
+....
+.52.
+..*.
+
+Number 603
+Length 3
+Line 116
+Col 117
+Part true
+Gear Index 16334
+Data:
+.....
+.603*
+.....
+
+Number 713
+Length 3
+Line 116
+Col 121
+Part true
+Gear Index 16334
+Data:
+.....
+*713.
+.....
+
+Number 317
+Length 3
+Line 116
+Col 128
+Part true
+Gear Index 16485
+Data:
+.....
+.317.
+...*.
+
+Number 384
+Length 3
+Line 117
+Col 6
+Part true
+Gear Index -1
+Data:
+....&
+.384.
+.....
+
+Number 186
+Length 3
+Line 117
+Col 22
+Part true
+Gear Index -1
+Data:
+..%..
+.186.
+.....
+
+Number 587
+Length 3
+Line 117
+Col 32
+Part true
+Gear Index 16249
+Data:
+....*
+.587.
+.....
+
+Number 529
+Length 3
+Line 117
+Col 53
+Part true
+Gear Index -1
+Data:
+.$...
+.529.
+.....
+
+Number 310
+Length 3
+Line 117
+Col 63
+Part false
+Gear Index -1
+Data:
+.....
+.310.
+.....
+
+Number 865
+Length 3
+Line 117
+Col 74
+Part false
+Gear Index -1
+Data:
+.....
+.865.
+.....
+
+Number 980
+Length 3
+Line 117
+Col 111
+Part true
+Gear Index -1
+Data:
+.....
+.980.
+.+...
+
+Number 809
+Length 3
+Line 118
+Col 11
+Part true
+Gear Index -1
+Data:
+.....
+.809.
+....@
+
+Number 960
+Length 3
+Line 118
+Col 18
+Part true
+Gear Index -1
+Data:
+.....
+&960.
+.....
+
+Number 713
+Length 3
+Line 118
+Col 39
+Part true
+Gear Index 16397
+Data:
+....*
+.713.
+.....
+
+Number 546
+Length 3
+Line 118
+Col 47
+Part true
+Gear Index 16404
+Data:
+...*.
+.546.
+.....
+
+Number 940
+Length 3
+Line 118
+Col 59
+Part true
+Gear Index 16699
+Data:
+.....
+.940.
+....*
+
+Number 326
+Length 3
+Line 118
+Col 69
+Part true
+Gear Index 16426
+Data:
+...*.
+.326.
+.....
+
+Number 524
+Length 3
+Line 118
+Col 82
+Part true
+Gear Index 16721
+Data:
+.....
+.524.
+...*.
+
+Number 480
+Length 3
+Line 118
+Col 86
+Part true
+Gear Index 16726
+Data:
+.....
+.480.
+....*
+
+Number 237
+Length 3
+Line 118
+Col 98
+Part true
+Gear Index 16738
+Data:
+.....
+.237.
+....*
+
+Number 122
+Length 3
+Line 118
+Col 106
+Part true
+Gear Index 16743
+Data:
+.....
+.122.
+.*...
+
+Number 868
+Length 3
+Line 118
+Col 121
+Part true
+Gear Index 16757
+Data:
+.....
+.868.
+*....
+
+Number 824
+Length 3
+Line 118
+Col 127
+Part true
+Gear Index 16485
+Data:
+....*
+.824.
+.....
+
+Number 477
+Length 3
+Line 119
+Col 28
+Part true
+Gear Index 16668
+Data:
+.....
+.477*
+.....
+
+Number 26
+Length 2
+Line 119
+Col 56
+Part true
+Gear Index -1
+Data:
+....
+.26.
+...%
+
+Number 726
+Length 3
+Line 119
+Col 65
+Part true
+Gear Index 16845
+Data:
+.....
+.726.
+...*.
+
+Number 541
+Length 3
+Line 119
+Col 76
+Part true
+Gear Index 16853
+Data:
+.....
+.541.
+*....
+
+Number 803
+Length 3
+Line 120
+Col 5
+Part true
+Gear Index -1
+Data:
+.....
+%803.
+.....
+
+Number 355
+Length 3
+Line 120
+Col 16
+Part true
+Gear Index 16937
+Data:
+.....
+.355.
+...*.
+
+Number 376
+Length 3
+Line 120
+Col 20
+Part true
+Gear Index 16939
+Data:
+.....
+.376.
+.*...
+
+Number 81
+Length 2
+Line 120
+Col 24
+Part true
+Gear Index 16945
+Data:
+....
+.81.
+...*
+
+Number 172
+Length 3
+Line 120
+Col 32
+Part true
+Gear Index 16668
+Data:
+*....
+.172.
+.....
+
+Number 286
+Length 3
+Line 120
+Col 39
+Part true
+Gear Index -1
+Data:
+.....
+.286-
+.....
+
+Number 490
+Length 3
+Line 120
+Col 44
+Part true
+Gear Index -1
+Data:
+.....
+.490.
+...#.
+
+Number 313
+Length 3
+Line 120
+Col 61
+Part true
+Gear Index 16699
+Data:
+..*..
+.313.
+.....
+
+Number 246
+Length 3
+Line 120
+Col 82
+Part true
+Gear Index 16721
+Data:
+...*.
+.246.
+.....
+
+Number 799
+Length 3
+Line 120
+Col 86
+Part true
+Gear Index 16726
+Data:
+....*
+.799.
+.....
+
+Number 718
+Length 3
+Line 120
+Col 101
+Part true
+Gear Index 16738
+Data:
+.*...
+.718.
+.....
+
+Number 922
+Length 3
+Line 120
+Col 107
+Part true
+Gear Index 16743
+Data:
+*....
+.922.
+.....
+
+Number 189
+Length 3
+Line 120
+Col 114
+Part true
+Gear Index -1
+Data:
+...-.
+.189.
+.....
+
+Number 402
+Length 3
+Line 120
+Col 118
+Part true
+Gear Index 16757
+Data:
+...*.
+.402.
+.....
+
+Number 869
+Length 3
+Line 120
+Col 128
+Part true
+Gear Index 17047
+Data:
+.....
+.869.
+.*...
+
+Number 983
+Length 3
+Line 121
+Col 11
+Part true
+Gear Index 17071
+Data:
+.....
+.983.
+.*...
+
+Number 458
+Length 3
+Line 121
+Col 53
+Part true
+Gear Index -1
+Data:
+..-..
+.458.
+.....
+
+Number 426
+Length 3
+Line 121
+Col 65
+Part true
+Gear Index 16845
+Data:
+...*.
+.426.
+.....
+
+Number 192
+Length 3
+Line 121
+Col 72
+Part true
+Gear Index 16853
+Data:
+....*
+.192.
+.....
+
+Number 966
+Length 3
+Line 121
+Col 78
+Part true
+Gear Index -1
+Data:
+.....
+.966.
+/....
+
+Number 710
+Length 3
+Line 121
+Col 95
+Part true
+Gear Index 17155
+Data:
+.....
+.710.
+.*...
+
+Number 480
+Length 3
+Line 121
+Col 138
+Part false
+Gear Index -1
+Data:
+....
+.480
+....
+
+Number 891
+Length 3
+Line 122
+Col 4
+Part true
+Gear Index 17208
+Data:
+.....
+.891.
+....*
+
+Number 251
+Length 3
+Line 122
+Col 16
+Part true
+Gear Index 16937
+Data:
+...*.
+.251.
+.....
+
+Number 268
+Length 3
+Line 122
+Col 21
+Part true
+Gear Index 16939
+Data:
+*....
+.268.
+.....
+
+Number 782
+Length 3
+Line 122
+Col 26
+Part true
+Gear Index 16945
+Data:
+.*...
+.782.
+.....
+
+Number 52
+Length 2
+Line 122
+Col 36
+Part true
+Gear Index -1
+Data:
+....
+.52.
+..&.
+
+Number 889
+Length 3
+Line 122
+Col 49
+Part true
+Gear Index 17251
+Data:
+.....
+.889.
+..*..
+
+Number 501
+Length 3
+Line 122
+Col 101
+Part true
+Gear Index 17305
+Data:
+.....
+.501.
+....*
+
+Number 446
+Length 3
+Line 122
+Col 117
+Part true
+Gear Index -1
+Data:
+.....
+.446.
+./...
+
+Number 927
+Length 3
+Line 122
+Col 128
+Part true
+Gear Index 17047
+Data:
+.*...
+.927.
+.....
+
+Number 841
+Length 3
+Line 123
+Col 9
+Part true
+Gear Index 17071
+Data:
+...*.
+.841.
+.....
+
+Number 159
+Length 3
+Line 123
+Col 40
+Part true
+Gear Index -1
+Data:
+.-...
+.159.
+.....
+
+Number 606
+Length 3
+Line 123
+Col 45
+Part true
+Gear Index -1
+Data:
+.....
+@606.
+.....
+
+Number 456
+Length 3
+Line 123
+Col 69
+Part true
+Gear Index 17269
+Data:
+.....
+*456.
+.....
+
+Number 792
+Length 3
+Line 123
+Col 81
+Part false
+Gear Index -1
+Data:
+.....
+.792.
+.....
+
+Number 905
+Length 3
+Line 123
+Col 90
+Part true
+Gear Index 17432
+Data:
+.....
+.905.
+.*...
+
+Number 535
+Length 3
+Line 123
+Col 96
+Part true
+Gear Index 17155
+Data:
+*....
+.535.
+.....
+
+Number 482
+Length 3
+Line 123
+Col 106
+Part false
+Gear Index -1
+Data:
+.....
+.482.
+.....
+
+Number 425
+Length 3
+Line 123
+Col 136
+Part true
+Gear Index -1
+Data:
+.....
+.425.
++....
+
+Number 952
+Length 3
+Line 124
+Col 5
+Part true
+Gear Index 17208
+Data:
+...*.
+.952.
+.....
+
+Number 533
+Length 3
+Line 124
+Col 14
+Part true
+Gear Index 17496
+Data:
+.....
+.533.
+*....
+
+Number 446
+Length 3
+Line 124
+Col 24
+Part true
+Gear Index 17506
+Data:
+.....
+.446.
+*....
+
+Number 731
+Length 3
+Line 124
+Col 31
+Part true
+Gear Index 17516
+Data:
+.....
+.731.
+...*.
+
+Number 732
+Length 3
+Line 124
+Col 49
+Part true
+Gear Index 17251
+Data:
+..*..
+.732.
+.....
+
+Number 234
+Length 3
+Line 124
+Col 58
+Part true
+Gear Index 17399
+Data:
+.....
+*234.
+.....
+
+Number 846
+Length 3
+Line 124
+Col 65
+Part true
+Gear Index 17269
+Data:
+....*
+.846.
+.....
+
+Number 325
+Length 3
+Line 124
+Col 101
+Part true
+Gear Index 17305
+Data:
+....*
+.325.
+.....
+
+Number 140
+Length 3
+Line 124
+Col 110
+Part false
+Gear Index -1
+Data:
+.....
+.140.
+.....
+
+Number 328
+Length 3
+Line 124
+Col 119
+Part false
+Gear Index -1
+Data:
+.....
+.328.
+.....
+
+Number 359
+Length 3
+Line 124
+Col 131
+Part true
+Gear Index -1
+Data:
+.....
+.359.
+.-...
+
+Number 89
+Length 2
+Line 125
+Col 10
+Part false
+Gear Index -1
+Data:
+....
+.89.
+....
+
+Number 455
+Length 3
+Line 125
+Col 19
+Part false
+Gear Index -1
+Data:
+.....
+.455.
+.....
+
+Number 337
+Length 3
+Line 125
+Col 36
+Part true
+Gear Index 17522
+Data:
+.....
+.337*
+.....
+
+Number 802
+Length 3
+Line 125
+Col 40
+Part true
+Gear Index 17522
+Data:
+.....
+*802.
+.....
+
+Number 411
+Length 3
+Line 125
+Col 54
+Part true
+Gear Index 17399
+Data:
+....*
+.411.
+.....
+
+Number 921
+Length 3
+Line 125
+Col 70
+Part true
+Gear Index 17693
+Data:
+.....
+.921.
+*....
+
+Number 87
+Length 2
+Line 125
+Col 90
+Part true
+Gear Index 17432
+Data:
+.*..
+.87.
+....
+
+Number 376
+Length 3
+Line 125
+Col 125
+Part true
+Gear Index -1
+Data:
+.....
+.376.
+@....
+
+Number 882
+Length 3
+Line 126
+Col 13
+Part true
+Gear Index 17496
+Data:
+.*...
+.882.
+.....
+
+Number 545
+Length 3
+Line 126
+Col 23
+Part true
+Gear Index 17506
+Data:
+.*...
+.545.
+.....
+
+Number 959
+Length 3
+Line 126
+Col 30
+Part true
+Gear Index 17516
+Data:
+....*
+.959.
+.....
+
+Number 432
+Length 3
+Line 126
+Col 62
+Part true
+Gear Index 17830
+Data:
+.....
+.432.
+....*
+
+Number 521
+Length 3
+Line 126
+Col 79
+Part true
+Gear Index -1
+Data:
+.....
+.521.
+-....
+
+Number 266
+Length 3
+Line 126
+Col 112
+Part true
+Gear Index -1
+Data:
+....&
+.266.
+.....
+
+Number 646
+Length 3
+Line 126
+Col 117
+Part true
+Gear Index 17881
+Data:
+.....
+.646.
+*....
+
+Number 378
+Length 3
+Line 127
+Col 57
+Part true
+Gear Index 17965
+Data:
+.....
+.378.
+...*.
+
+Number 377
+Length 3
+Line 127
+Col 68
+Part true
+Gear Index 17693
+Data:
+..*..
+.377.
+.....
+
+Number 546
+Length 3
+Line 127
+Col 84
+Part true
+Gear Index 17989
+Data:
+.....
+.546.
+*....
+
+Number 441
+Length 3
+Line 127
+Col 89
+Part true
+Gear Index -1
+Data:
+.....
+.441-
+.....
+
+Number 559
+Length 3
+Line 127
+Col 108
+Part true
+Gear Index 17734
+Data:
+...*.
+.559.
+.....
+
+Number 594
+Length 3
+Line 127
+Col 137
+Part true
+Gear Index 18042
+Data:
+.....
+.594.
+*....
+
+Number 719
+Length 3
+Line 128
+Col 9
+Part true
+Gear Index 17914
+Data:
+.....
+*719.
+.....
+
+Number 293
+Length 3
+Line 128
+Col 14
+Part false
+Gear Index -1
+Data:
+.....
+.293.
+.....
+
+Number 531
+Length 3
+Line 128
+Col 21
+Part true
+Gear Index 18069
+Data:
+.....
+.531.
+..*..
+
+Number 513
+Length 3
+Line 128
+Col 26
+Part false
+Gear Index -1
+Data:
+.....
+.513.
+.....
+
+Number 330
+Length 3
+Line 128
+Col 30
+Part true
+Gear Index -1
+Data:
+.....
+.330.
+....+
+
+Number 209
+Length 3
+Line 128
+Col 39
+Part false
+Gear Index -1
+Data:
+.....
+.209.
+.....
+
+Number 920
+Length 3
+Line 128
+Col 45
+Part true
+Gear Index -1
+Data:
+.....
+.920.
+..#..
+
+Number 813
+Length 3
+Line 128
+Col 49
+Part true
+Gear Index -1
+Data:
+.@...
+.813.
+.....
+
+Number 981
+Length 3
+Line 128
+Col 53
+Part false
+Gear Index -1
+Data:
+.....
+.981.
+.....
+
+Number 61
+Length 2
+Line 128
+Col 64
+Part true
+Gear Index 17830
+Data:
+..*.
+.61.
+....
+
+Number 403
+Length 3
+Line 128
+Col 74
+Part true
+Gear Index 18121
+Data:
+.....
+.403.
+.*...
+
+Number 845
+Length 3
+Line 128
+Col 80
+Part true
+Gear Index 17989
+Data:
+.....
+.845*
+.....
+
+Number 506
+Length 3
+Line 128
+Col 97
+Part true
+Gear Index 18143
+Data:
+.....
+.506.
+*....
+
+Number 33
+Length 2
+Line 128
+Col 114
+Part true
+Gear Index 17881
+Data:
+...*
+.33.
+....
+
+Number 894
+Length 3
+Line 128
+Col 119
+Part true
+Gear Index -1
+Data:
+....-
+.894.
+.....
+
+Number 992
+Length 3
+Line 128
+Col 130
+Part true
+Gear Index -1
+Data:
+...&.
+.992.
+.....
+
+Number 83
+Length 2
+Line 129
+Col 36
+Part true
+Gear Index -1
+Data:
+-...
+.83.
+....
+
+Number 296
+Length 3
+Line 129
+Col 57
+Part true
+Gear Index 17965
+Data:
+...*.
+.296.
+.....
+
+Number 887
+Length 3
+Line 129
+Col 70
+Part true
+Gear Index 18116
+Data:
+.....
+*887.
+.....
+
+Number 620
+Length 3
+Line 129
+Col 105
+Part true
+Gear Index -1
+Data:
+..@..
+.620.
+.....
+
+Number 342
+Length 3
+Line 129
+Col 125
+Part true
+Gear Index 18316
+Data:
+.....
+.342.
+....*
+
+Number 39
+Length 2
+Line 129
+Col 135
+Part true
+Gear Index 18042
+Data:
+..*.
+.39.
+....
+
+Number 89
+Length 2
+Line 130
+Col 5
+Part true
+Gear Index 18195
+Data:
+....
+.89*
+....
+
+Number 579
+Length 3
+Line 130
+Col 8
+Part true
+Gear Index 18195
+Data:
+.....
+*579.
+.....
+
+Number 638
+Length 3
+Line 130
+Col 14
+Part true
+Gear Index -1
+Data:
+.....
++638.
+.....
+
+Number 704
+Length 3
+Line 130
+Col 20
+Part true
+Gear Index 18069
+Data:
+...*.
+.704.
+.....
+
+Number 192
+Length 3
+Line 130
+Col 48
+Part false
+Gear Index -1
+Data:
+.....
+.192.
+.....
+
+Number 438
+Length 3
+Line 130
+Col 53
+Part true
+Gear Index -1
+Data:
+.....
+/438.
+.....
+
+Number 797
+Length 3
+Line 130
+Col 61
+Part true
+Gear Index -1
+Data:
+..&..
+.797.
+.....
+
+Number 480
+Length 3
+Line 130
+Col 66
+Part true
+Gear Index 18116
+Data:
+....*
+.480.
+.....
+
+Number 585
+Length 3
+Line 130
+Col 74
+Part true
+Gear Index 18121
+Data:
+.*...
+.585.
+.....
+
+Number 690
+Length 3
+Line 130
+Col 84
+Part true
+Gear Index -1
+Data:
+....-
+.690.
+.....
+
+Number 100
+Length 3
+Line 130
+Col 95
+Part true
+Gear Index 18143
+Data:
+..*..
+.100.
+.....
+
+Number 622
+Length 3
+Line 130
+Col 129
+Part true
+Gear Index 18316
+Data:
+.....
+*622.
+.....
+
+Number 146
+Length 3
+Line 131
+Col 27
+Part true
+Gear Index 18218
+Data:
+....*
+.146.
+.....
+
+Number 910
+Length 3
+Line 131
+Col 31
+Part true
+Gear Index 18218
+Data:
+*....
+.910.
+.....
+
+Number 474
+Length 3
+Line 131
+Col 90
+Part true
+Gear Index -1
+Data:
+....@
+.474.
+.....
+
+Number 828
+Length 3
+Line 131
+Col 115
+Part true
+Gear Index 18588
+Data:
+.....
+.828.
+....*
+
+Number 401
+Length 3
+Line 131
+Col 119
+Part true
+Gear Index 18588
+Data:
+.....
+.401.
+*....
+
+Number 740
+Length 3
+Line 132
+Col 7
+Part true
+Gear Index -1
+Data:
+.....
+.740.
+.%...
+
+Number 606
+Length 3
+Line 132
+Col 14
+Part false
+Gear Index -1
+Data:
+.....
+.606.
+.....
+
+Number 994
+Length 3
+Line 132
+Col 37
+Part true
+Gear Index 18649
+Data:
+.....
+.994.
+..*..
+
+Number 373
+Length 3
+Line 132
+Col 75
+Part false
+Gear Index -1
+Data:
+.....
+.373.
+.....
+
+Number 434
+Length 3
+Line 132
+Col 110
+Part true
+Gear Index -1
+Data:
+.....
+#434.
+.....
+
+Number 609
+Length 3
+Line 132
+Col 134
+Part true
+Gear Index -1
+Data:
+.....
+%609.
+.....
+
+Number 660
+Length 3
+Line 133
+Col 2
+Part false
+Gear Index -1
+Data:
+.....
+.660.
+.....
+
+Number 889
+Length 3
+Line 133
+Col 41
+Part true
+Gear Index -1
+Data:
+....-
+.889.
+.....
+
+Number 246
+Length 3
+Line 133
+Col 57
+Part true
+Gear Index 18809
+Data:
+.....
+.246.
+.*...
+
+Number 870
+Length 3
+Line 133
+Col 64
+Part true
+Gear Index -1
+Data:
+.%...
+.870.
+.....
+
+Number 87
+Length 2
+Line 133
+Col 68
+Part true
+Gear Index -1
+Data:
+...%
+.87.
+....
+
+Number 696
+Length 3
+Line 133
+Col 96
+Part true
+Gear Index -1
+Data:
+.....
+.696.
+..-..
+
+Number 601
+Length 3
+Line 133
+Col 102
+Part true
+Gear Index -1
+Data:
+.....
++601.
+.....
+
+Number 335
+Length 3
+Line 134
+Col 10
+Part true
+Gear Index -1
+Data:
+...%.
+.335.
+.....
+
+Number 843
+Length 3
+Line 134
+Col 14
+Part true
+Gear Index 18769
+Data:
+.....
+.843*
+.....
+
+Number 646
+Length 3
+Line 134
+Col 18
+Part true
+Gear Index 18769
+Data:
+.....
+*646.
+.....
+
+Number 423
+Length 3
+Line 134
+Col 26
+Part true
+Gear Index -1
+Data:
+.....
+.423.
++....
+
+Number 111
+Length 3
+Line 134
+Col 31
+Part true
+Gear Index -1
+Data:
+...&.
+.111.
+.....
+
+Number 929
+Length 3
+Line 134
+Col 35
+Part true
+Gear Index 18649
+Data:
+....*
+.929.
+.....
+
+Number 114
+Length 3
+Line 134
+Col 47
+Part false
+Gear Index -1
+Data:
+.....
+.114.
+.....
+
+Number 393
+Length 3
+Line 134
+Col 52
+Part true
+Gear Index -1
+Data:
+.../.
+.393.
+.....
+
+Number 908
+Length 3
+Line 134
+Col 72
+Part true
+Gear Index -1
+Data:
+.@...
+.908.
+.....
+
+Number 965
+Length 3
+Line 134
+Col 84
+Part true
+Gear Index 18696
+Data:
+..*..
+.965.
+.....
+
+Number 113
+Length 3
+Line 134
+Col 92
+Part true
+Gear Index -1
+Data:
+.....
+.113.
+..%..
+
+Number 853
+Length 3
+Line 134
+Col 108
+Part true
+Gear Index 18863
+Data:
+.....
+.853*
+.....
+
+Number 459
+Length 3
+Line 134
+Col 112
+Part true
+Gear Index 18863
+Data:
+.....
+*459.
+.....
+
+Number 267
+Length 3
+Line 134
+Col 116
+Part true
+Gear Index 19010
+Data:
+.....
+.267.
+..*..
+
+Number 397
+Length 3
+Line 134
+Col 128
+Part true
+Gear Index -1
+Data:
+.....
+.397.
+...=.
+
+Number 356
+Length 3
+Line 134
+Col 137
+Part false
+Gear Index -1
+Data:
+.....
+.356.
+.....
+
+Number 824
+Length 3
+Line 135
+Col 58
+Part true
+Gear Index 18809
+Data:
+*....
+.824.
+.....
+
+Number 965
+Length 3
+Line 135
+Col 77
+Part true
+Gear Index -1
+Data:
+..-..
+.965.
+.....
+
+Number 651
+Length 3
+Line 135
+Col 120
+Part true
+Gear Index -1
+Data:
+...&.
+.651.
+.....
+
+Number 42
+Length 2
+Line 135
+Col 133
+Part true
+Gear Index -1
+Data:
+....
+.42+
+....
+
+Number 764
+Length 3
+Line 136
+Col 6
+Part true
+Gear Index 19181
+Data:
+.....
+.764.
+.*...
+
+Number 809
+Length 3
+Line 136
+Col 21
+Part true
+Gear Index 19196
+Data:
+.....
+.809.
+.*...
+
+Number 815
+Length 3
+Line 136
+Col 29
+Part true
+Gear Index -1
+Data:
+.....
+@815.
+.....
+
+Number 973
+Length 3
+Line 136
+Col 35
+Part false
+Gear Index -1
+Data:
+.....
+.973.
+.....
+
+Number 907
+Length 3
+Line 136
+Col 42
+Part true
+Gear Index -1
+Data:
+.....
+.907.
+..-..
+
+Number 261
+Length 3
+Line 136
+Col 52
+Part true
+Gear Index -1
+Data:
+.....
+.261@
+.....
+
+Number 590
+Length 3
+Line 136
+Col 66
+Part true
+Gear Index -1
+Data:
+../..
+.590.
+.....
+
+Number 646
+Length 3
+Line 136
+Col 89
+Part true
+Gear Index -1
+Data:
+.....
+@646.
+.....
+
+Number 713
+Length 3
+Line 136
+Col 96
+Part true
+Gear Index 19273
+Data:
+.....
+.713.
+...*.
+
+Number 918
+Length 3
+Line 136
+Col 101
+Part true
+Gear Index 19278
+Data:
+.....
+.918.
+...*.
+
+Number 341
+Length 3
+Line 136
+Col 110
+Part true
+Gear Index -1
+Data:
+.....
+.341.
+..-..
+
+Number 396
+Length 3
+Line 136
+Col 115
+Part true
+Gear Index 19010
+Data:
+...*.
+.396.
+.....
+
+Number 678
+Length 3
+Line 137
+Col 71
+Part true
+Gear Index -1
+Data:
+...+.
+.678.
+.....
+
+Number 371
+Length 3
+Line 137
+Col 75
+Part true
+Gear Index -1
+Data:
+./...
+.371.
+.....
+
+Number 701
+Length 3
+Line 137
+Col 79
+Part true
+Gear Index 19395
+Data:
+.....
+.701.
+.*...
+
+Number 548
+Length 3
+Line 137
+Col 122
+Part true
+Gear Index 19438
+Data:
+.....
+.548.
+.*...
+
+Number 938
+Length 3
+Line 138
+Col 1
+Part true
+Gear Index 19461
+Data:
+....
+938.
+...*
+
+Number 69
+Length 2
+Line 138
+Col 6
+Part true
+Gear Index 19181
+Data:
+.*..
+.69.
+....
+
+Number 92
+Length 2
+Line 138
+Col 15
+Part true
+Gear Index 19473
+Data:
+....
+.92.
+..*.
+
+Number 521
+Length 3
+Line 138
+Col 20
+Part true
+Gear Index 19196
+Data:
+..*..
+.521.
+.....
+
+Number 390
+Length 3
+Line 138
+Col 29
+Part true
+Gear Index 19344
+Data:
+.....
+*390.
+.....
+
+Number 237
+Length 3
+Line 138
+Col 38
+Part true
+Gear Index -1
+Data:
+.....
+=237.
+.....
+
+Number 287
+Length 3
+Line 138
+Col 45
+Part true
+Gear Index 19503
+Data:
+.....
+.287.
+..*..
+
+Number 182
+Length 3
+Line 138
+Col 55
+Part true
+Gear Index 19513
+Data:
+.....
+.182.
+..*..
+
+Number 70
+Length 2
+Line 138
+Col 62
+Part true
+Gear Index 19520
+Data:
+....
+.70.
+..*.
+
+Number 51
+Length 2
+Line 138
+Col 66
+Part true
+Gear Index -1
+Data:
+....
+.51.
+/...
+
+Number 773
+Length 3
+Line 138
+Col 96
+Part true
+Gear Index 19273
+Data:
+...*.
+.773.
+.....
+
+Number 914
+Length 3
+Line 138
+Col 101
+Part true
+Gear Index 19278
+Data:
+...*.
+.914.
+.....
+
+Number 747
+Length 3
+Line 138
+Col 106
+Part true
+Gear Index 19564
+Data:
+.....
+.747.
+..*..
+
+Number 415
+Length 3
+Line 138
+Col 114
+Part true
+Gear Index 19570
+Data:
+.....
+.415.
+*....
+
+Number 94
+Length 2
+Line 138
+Col 128
+Part true
+Gear Index -1
+Data:
+....
+.94.
+...&
+
+Number 680
+Length 3
+Line 138
+Col 132
+Part true
+Gear Index 19592
+Data:
+.....
+.680.
+....*
+
+Number 738
+Length 3
+Line 138
+Col 137
+Part false
+Gear Index -1
+Data:
+.....
+.738.
+.....
+
+Number 713
+Length 3
+Line 139
+Col 25
+Part true
+Gear Index 19344
+Data:
+....*
+.713.
+.....
+
+Number 503
+Length 3
+Line 139
+Col 72
+Part false
+Gear Index -1
+Data:
+.....
+.503.
+.....
+
+Number 118
+Length 3
+Line 139
+Col 78
+Part true
+Gear Index 19395
+Data:
+..*..
+.118.
+.....
+
+Number 643
+Length 3
+Line 139
+Col 92
+Part true
+Gear Index -1
+Data:
+.....
+@643.
+.....
+
+Number 316
+Length 3
+Line 139
+Col 110
+Part true
+Gear Index 19570
+Data:
+.....
+.316*
+.....
+
+Number 199
+Length 3
+Line 139
+Col 122
+Part true
+Gear Index 19438
+Data:
+.*...
+.199.
+.....
+
+Number 341
+Length 3
+Line 140
+Col 2
+Part true
+Gear Index 19461
+Data:
+...*.
+.341.
+
+Number 122
+Length 3
+Line 140
+Col 16
+Part true
+Gear Index 19473
+Data:
+.*...
+.122.
+
+Number 730
+Length 3
+Line 140
+Col 20
+Part false
+Gear Index -1
+Data:
+.....
+.730.
+
+Number 890
+Length 3
+Line 140
+Col 36
+Part false
+Gear Index -1
+Data:
+.....
+.890.
+
+Number 20
+Length 2
+Line 140
+Col 45
+Part true
+Gear Index 19503
+Data:
+..*.
+.20.
+
+Number 570
+Length 3
+Line 140
+Col 49
+Part false
+Gear Index -1
+Data:
+.....
+.570.
+
+Number 64
+Length 2
+Line 140
+Col 56
+Part true
+Gear Index 19513
+Data:
+.*..
+.64.
+
+Number 22
+Length 2
+Line 140
+Col 61
+Part true
+Gear Index 19520
+Data:
+...*
+.22.
+
+Number 146
+Length 3
+Line 140
+Col 105
+Part true
+Gear Index 19564
+Data:
+...*.
+.146.
+
+Number 479
+Length 3
+Line 140
+Col 136
+Part true
+Gear Index 19592
+Data:
+*....
+.479.
