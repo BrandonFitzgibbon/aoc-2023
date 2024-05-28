@@ -14,6 +14,15 @@ type Card struct {
 	points  int
 }
 
+type LiteCard struct {
+	id      int
+	winners int
+}
+
+func (card LiteCard) String() string {
+	return fmt.Sprintf("{Id: %d, Winners: %d}", card.id, card.winners)
+}
+
 func parseDigit(data []byte) int {
 	val := 0
 	for i, v := range data {
@@ -91,13 +100,31 @@ func calculateWinners(cards []Card) int {
 	return sum
 }
 
+func processDeck(cards []LiteCard) int {
+	total := 0
+	queue := append(make([]LiteCard, 0, len(cards)), cards...)
+	for len(queue) != 0 {
+		card := queue[0]
+		if card.winners > 0 {
+			queue = append(queue, cards[card.id:card.id+card.winners]...)
+		}
+		total += 1
+		queue = queue[1:]
+	}
+	return total
+}
+
 func main() {
-	data, err := os.ReadFile("./example.txt")
+	data, err := os.ReadFile("./data.txt")
 	if err != nil {
 		return
 	}
 	cards := parseData(data)
 	sum := calculateWinners(cards)
-	fmt.Println(cards)
-	fmt.Println(sum)
+	liteCards := make([]LiteCard, 0, len(cards))
+	for _, v := range cards {
+		liteCards = append(liteCards, LiteCard{id: v.id, winners: v.winners})
+	}
+	total := processDeck(liteCards)
+	fmt.Println(sum, total)
 }
