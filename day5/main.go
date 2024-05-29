@@ -64,15 +64,6 @@ func (m FarmerMap) String() string {
 	return sb.String()
 }
 
-func processRange(fmap FarmerMap, seedRange *EntityRange) []EntityRange {
-	entityRanges := make([]EntityRange, 0)
-	minMap := -1
-	maxMap := -1
-	for i, v := range fmap.mappings {
-
-	}
-}
-
 type EntityRange struct {
 	min int
 	max int
@@ -141,7 +132,7 @@ func main() {
 			mappings := make([]Mapping, 0)
 			for i := 0; i < len(mapNumbers); i += 3 {
 				min := mapNumbers[i+1]
-				max := mapNumbers[i+1] + mapNumbers[i+2]
+				max := mapNumbers[i+1] + mapNumbers[i+2] - 1
 				delta := mapNumbers[i] - mapNumbers[i+1]
 				mappings = append(mappings, Mapping{min: min, max: max, delta: delta})
 			}
@@ -152,7 +143,34 @@ func main() {
 	}
 	ranges := make([]EntityRange, 0)
 	for _, v := range initialseeds {
-		processRange(maps, &v)
+		for _, m := range maps {
+			ranges = append(ranges, processRange(m, &v)...)
+		}
 	}
 	fmt.Println(ranges)
+}
+
+func processRange(fmap FarmerMap, rng *EntityRange) []EntityRange {
+	entityRanges := make([]EntityRange, 0)
+	minMap := -1
+	maxMap := -1
+	for i, v := range fmap.mappings {
+		if rng.min >= v.min && rng.min <= v.max {
+			minMap = i
+		}
+		if rng.max >= v.min && rng.max <= v.max {
+			maxMap = i
+		}
+	}
+	if minMap != maxMap {
+		minrng := EntityRange{min: rng.min, max: fmap.mappings[minMap].max}
+		maxrng := EntityRange{min: fmap.mappings[minMap].max + 1, max: rng.max}
+		entityRanges = append(entityRanges, processRange(fmap, &minrng)...)
+		entityRanges = append(entityRanges, processRange(fmap, &maxrng)...)
+	} else {
+		rng.min = rng.min + fmap.mappings[minMap].delta
+		rng.max = rng.max + fmap.mappings[maxMap].delta
+		entityRanges = append(entityRanges, *rng)
+	}
+	return entityRanges
 }
