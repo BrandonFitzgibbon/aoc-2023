@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
+	"strings"
 )
 
 type TokenType int32
@@ -44,7 +45,37 @@ func getNumber(data []byte, i *int) string {
 type FarmerMap struct {
 	from     string
 	to       string
-	mappings []int
+	mappings []Mapping
+}
+
+type Mapping struct {
+	min   int
+	max   int
+	delta int
+}
+
+func (m FarmerMap) String() string {
+	s := fmt.Sprintf("%s to %s\n", m.from, m.to)
+	sb := strings.Builder{}
+	sb.WriteString(s)
+	for _, v := range m.mappings {
+		sb.WriteString(fmt.Sprintf("Diff: %d; Range: %d - %d\n", v.delta, v.min, v.max))
+	}
+	return sb.String()
+}
+
+func processRange(fmap FarmerMap, seedRange *EntityRange) []EntityRange {
+	entityRanges := make([]EntityRange, 0)
+	minMap := -1
+	maxMap := -1
+	for i, v := range fmap.mappings {
+
+	}
+}
+
+type EntityRange struct {
+	min int
+	max int
 }
 
 func getNumbers(tokens []Token, i *int) []int {
@@ -58,6 +89,14 @@ func getNumbers(tokens []Token, i *int) []int {
 		numbers = append(numbers, i)
 	}
 	return numbers
+}
+
+func getSeedRanges(seeds []int) []EntityRange {
+	ranges := make([]EntityRange, 0)
+	for i := 0; i < len(seeds); i += 2 {
+		ranges = append(ranges, EntityRange{min: seeds[i], max: seeds[i] + seeds[i+1] - 1})
+	}
+	return ranges
 }
 
 func main() {
@@ -83,31 +122,37 @@ func main() {
 		}
 	}
 	i = 0
-	seeds := make([]int, 0)
+	initialseeds := make([]EntityRange, 0)
 	maps := make([]FarmerMap, 0)
 	for ; i < len(tokens); i++ {
 		token := tokens[i]
 		if token.tokenType == STRING && token.value == "seeds" {
 			i++ // next token
-			seeds = getNumbers(tokens, &i)
-			fmt.Println(seeds)
+			seeds := getNumbers(tokens, &i)
+			initialseeds = getSeedRanges(seeds)
+			fmt.Println(initialseeds)
 			token = tokens[i] // the value of `i` has changed
 		}
 		if token.tokenType == MAP {
 			to := tokens[i-1].value
 			from := tokens[i-3].value
 			i++ // next token
-			mappings := getNumbers(tokens, &i)
+			mapNumbers := getNumbers(tokens, &i)
+			mappings := make([]Mapping, 0)
+			for i := 0; i < len(mapNumbers); i += 3 {
+				min := mapNumbers[i+1]
+				max := mapNumbers[i+1] + mapNumbers[i+2]
+				delta := mapNumbers[i] - mapNumbers[i+1]
+				mappings = append(mappings, Mapping{min: min, max: max, delta: delta})
+			}
 			farmerMap := FarmerMap{from: from, to: to, mappings: mappings}
 			fmt.Println(farmerMap)
 			maps = append(maps, farmerMap)
 		}
 	}
-	for _, v := range seeds {
-		for _, m := range maps {
-			for i, k := range m.mappings {
-
-			}
-		}
+	ranges := make([]EntityRange, 0)
+	for _, v := range initialseeds {
+		processRange(maps, &v)
 	}
+	fmt.Println(ranges)
 }
