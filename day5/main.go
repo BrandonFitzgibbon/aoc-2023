@@ -69,6 +69,10 @@ type EntityRange struct {
 	max int
 }
 
+func (m Mapping) inRange(i int) bool {
+	return i >= m.min && i <= m.max
+}
+
 func getNumbers(tokens []Token, i *int) []int {
 	numbers := make([]int, 0)
 	for ; *i < len(tokens) && tokens[*i].tokenType == NUMBER; *i++ {
@@ -141,36 +145,80 @@ func main() {
 			maps = append(maps, farmerMap)
 		}
 	}
-	ranges := make([]EntityRange, 0)
-	for _, v := range initialseeds {
-		for _, m := range maps {
-			ranges = append(ranges, processRange(m, &v)...)
+	min := -1
+	for _, s := range initialseeds {
+		fmt.Println(s)
+		sts := processRange(maps[0], []EntityRange{s})
+		fmt.Println(sts)
+		stf := processRange(maps[1], sts)
+		fmt.Println(stf)
+		ftw := processRange(maps[2], stf)
+		fmt.Println(ftw)
+		wtl := processRange(maps[3], ftw)
+		fmt.Println(wtl)
+		ltt := processRange(maps[4], wtl)
+		fmt.Println(ltt)
+		tth := processRange(maps[5], ltt)
+		fmt.Println(tth)
+		htl := processRange(maps[6], tth)
+		fmt.Println(htl)
+		for _, v := range htl {
+			if min == -1 {
+				min = v.min
+			}
+			if v.min < min {
+				min = v.min
+			}
+			if v.max < min {
+				min = v.max
+			}
 		}
 	}
-	fmt.Println(ranges)
+	println(min)
 }
 
-func processRange(fmap FarmerMap, rng *EntityRange) []EntityRange {
+func processRange(fmap FarmerMap, ranges []EntityRange) []EntityRange {
 	entityRanges := make([]EntityRange, 0)
-	minMap := -1
-	maxMap := -1
-	for i, v := range fmap.mappings {
-		if rng.min >= v.min && rng.min <= v.max {
-			minMap = i
+	for i := 0; i < len(ranges); i++ {
+		r := &ranges[i]
+		minIndex := -1
+		maxIndex := -1
+		for i, v := range fmap.mappings {
+			if v.inRange(r.min) {
+				minIndex = i
+			}
+			if v.inRange(r.max) {
+				maxIndex = i
+			}
 		}
-		if rng.max >= v.min && rng.max <= v.max {
-			maxMap = i
+		if minIndex == maxIndex {
+			if minIndex == -1 {
+				entityRanges = append(entityRanges, *r)
+			} else {
+				r.min = r.min + fmap.mappings[minIndex].delta
+				r.max = r.max + fmap.mappings[minIndex].delta
+				entityRanges = append(entityRanges, *r)
+			}
+		} else {
+			if minIndex > -1 && maxIndex > -1 {
+				minr := EntityRange{min: r.min, max: fmap.mappings[minIndex].max}
+				maxr := EntityRange{min: fmap.mappings[maxIndex].min, max: r.max}
+				entityRanges = append(entityRanges, processRange(fmap, []EntityRange{minr})...)
+				entityRanges = append(entityRanges, processRange(fmap, []EntityRange{maxr})...)
+			}
+			if minIndex > -1 && maxIndex == -1 {
+				minr := EntityRange{min: r.min, max: fmap.mappings[minIndex].max}
+				maxr := EntityRange{min: fmap.mappings[minIndex].max + 1, max: r.max}
+				entityRanges = append(entityRanges, processRange(fmap, []EntityRange{minr})...)
+				entityRanges = append(entityRanges, processRange(fmap, []EntityRange{maxr})...)
+			}
+			if maxIndex > -1 && minIndex == -1 {
+				minr := EntityRange{min: r.min, max: fmap.mappings[maxIndex].min - 1}
+				maxr := EntityRange{min: fmap.mappings[maxIndex].min, max: r.max}
+				entityRanges = append(entityRanges, processRange(fmap, []EntityRange{minr})...)
+				entityRanges = append(entityRanges, processRange(fmap, []EntityRange{maxr})...)
+			}
 		}
-	}
-	if minMap != maxMap {
-		minrng := EntityRange{min: rng.min, max: fmap.mappings[minMap].max}
-		maxrng := EntityRange{min: fmap.mappings[minMap].max + 1, max: rng.max}
-		entityRanges = append(entityRanges, processRange(fmap, &minrng)...)
-		entityRanges = append(entityRanges, processRange(fmap, &maxrng)...)
-	} else {
-		rng.min = rng.min + fmap.mappings[minMap].delta
-		rng.max = rng.max + fmap.mappings[maxMap].delta
-		entityRanges = append(entityRanges, *rng)
 	}
 	return entityRanges
 }
